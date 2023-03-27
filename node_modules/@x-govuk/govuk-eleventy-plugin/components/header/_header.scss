@@ -1,0 +1,29 @@
+// Forked from header fork on GOV.UK Design System
+// See: https://github.com/alphagov/govuk-design-system/blob/master/src/stylesheets/components/_header.scss
+
+@include govuk-exports("app-header") {
+  // Override the default 33% width on the logo in GOV.UK Frontend (prevents
+  // unnecessary wrapping of product name on smaller tablet / desktop
+  // viewports)
+  .app-header__logo {
+    width: auto;
+
+    // Remove right padding of product name as affects appearance on hover
+    .govuk-header__product-name {
+      padding-right: 0;
+    }
+  }
+
+  // Height of crown is 30px.
+  // Accept slightly larger icons with a height of 35px
+  .app-header__logotype--large {
+    // Visually adjust placement
+    margin: -3px 0 -8px;
+
+    .govuk-header__link--homepage:not(:focus):hover & {
+      // Prevent underline interfering with larger logo, whose height means
+      // it falls below the baseline
+      background-color: govuk-colour("black");
+    }
+  }
+}
