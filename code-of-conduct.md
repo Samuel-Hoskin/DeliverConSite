@@ -2,7 +2,7 @@
 layout: page
 order: 1
 title: DeliverCon Code of Conduct
-description: Simple layout designed for maximum flexibility of content.
+description: Expected behavior from participants at DeliverCon
 ---
 
 Our code of conduct is based on the one in use at [UK Gov Camp](https://www.ukgovcamp.com/code-of-conduct/).
