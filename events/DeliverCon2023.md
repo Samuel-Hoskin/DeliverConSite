@@ -46,6 +46,15 @@ There was 96 people in attendance from a total of x organisations.
 
 We had 4 spaces and 5 sessions throughout the day giving us a total of 20 sessions thought out the day.
 
+### Social
+
+We asked people to share there experience using [#DeliverCon2023](https://twitter.com/hashtag/delivercon2023).
+
+We also asked people upload any pictures they took to a shared [Google Photos album]().
+
+We had a pre and post event social at The Old Joint Stock Pub & Theatre (4 Temple Row West, Birmingham, B2 5NY). 
+
+
 ### Feedback
 
 Feedback received has been overwhelmingly positive: 
