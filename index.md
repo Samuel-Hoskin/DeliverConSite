@@ -13,7 +13,7 @@ image:
 aside:
   title: "Sign up for:"
   content: | 
-    [X-Gov Delivery community](mailto:barry.traish@dwp.gov.uk?subject=Add%20me%20to%20the%20Agile%20delivery%20community%20meet-up&body=Hello%2C%0D%0A%0D%0APlease%20add%20me%20to%20the%20cross-government%20Agile%20delivery%20community%20meet-up)
+    [X-Gov Delivery Community](mailto:barry.traish@dwp.gov.uk?subject=Add%20me%20to%20the%20Agile%20delivery%20community%20meet-up&body=Hello%2C%0D%0A%0D%0APlease%20add%20me%20to%20the%20cross-government%20Agile%20delivery%20community%20meet-up)
     
 related:
   sections:
@@ -24,7 +24,7 @@ related:
         - text: Blogs
           href: ../../blogs
         - text: Resources
-          href: ../../eesources
+          href: ../../resources
       
 ---
 {% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
@@ -32,6 +32,8 @@ related:
 {{ govukInsetText({
   text: "DeliverCon will return in early 2024. Make sure to follow us on Twitter <a href='https://twitter.com/DeliverConUK'>@DeliverConUK</a> and watch <a href='https://ukgovernmentdigital.slack.com/archives/C07CMTQKC'>#DeliveryMgnt</a> on X-Gov Slack"
 }) }}
+
+Check out our <a href="blogs">Blogs</a>, <a href="events">Events</a> and <a href="resources">Resources</a>.
 
 ### What this community's for
 
@@ -51,4 +53,3 @@ You might be interested in the community if you use (or want to use) agile or wa
 
 You don’t have to be in a software development team to join. We have community members from policy, capability and operations. 
 
-Check out our <a href="blogs">Blogs</a>, <a href="events">Events</a> and <a href="resources">Resources</a>.
