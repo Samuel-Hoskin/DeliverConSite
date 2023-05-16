@@ -3,27 +3,19 @@ layout: collection
 order: 4
 title: Events
 description: Upcoming and past events
-paginationHeading: Example collection
+paginationHeading: List of events
 pagination:
   data: collections.event
-  size: 2
+  size: 10
 
-aside:
-  title: Aside
-  content: | 
-    A small portion of content that is **indirectly** related to the main content.
 related:
   sections:
-    - title: Related links
+    - title: "Sign up for:"
       items:
-        - text: Layouts
-          href: ../../layouts
-        - text: Options
-          href: ../../options
-      subsections:
-        - title: Eleventy documentation
-          items:
-          - text: Front matter data
-            href: https://www.11ty.dev/docs/data-frontmatter/
+        - text: X-Gov Delivery Community 
+          href: 
+        - text: DeliverCon
+          href: 
+ 
 
 ---

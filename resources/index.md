@@ -6,6 +6,7 @@ description: Helpful resources
 paginationHeading: Example collection
 pagination:
   data: collections.resource
+  size: 10
 aside:
   title: Aside
   content: | 
@@ -23,5 +24,4 @@ related:
           items:
           - text: Front matter data
             href: https://www.11ty.dev/docs/data-frontmatter/
-
 ---

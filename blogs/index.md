@@ -8,7 +8,7 @@ description: Blogs from the delivery community
 paginationHeading: Example collection
 pagination:
   data: collections.blog
-  size: 2
+  size: 10
 
 aside:
   title: Aside
