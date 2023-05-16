@@ -47,7 +47,7 @@ module.exports = function(eleventyConfig) {
                   text: "Privacy Policy"
                 },
                 {
-                  href: "#",
+                  href: "/code-of-conduct",
                   text: "Code of Conduct"
                 },
                 {
