@@ -30,7 +30,7 @@ related:
 {% from "govuk/components/inset-text/macro.njk" import govukInsetText %}
 
 {{ govukInsetText({
-  text: "DeliverCon will return in early 2024. Make sure to follow us on Twitter <a href='https://twitter.com/DeliverConUK'>@DeliverConUK</a> and watch <a href='https://ukgovernmentdigital.slack.com/archives/C07CMTQKC'>#DeliveryMgnt</a> on X-Gov Slack"
+  text: "DeliverCon will return in early 2024. Make sure to follow us on Twitter <a href='https://twitter.com/DeliverConUK'>@DeliverConUK</a> and watch <a href='https://ukgovernmentdigital.slack.com/archives/C07CMTQKC'>#DeliveryMgmt</a> on X-Gov Slack"
 }) }}
 
 Check out our <a href="blogs">Blogs</a>, <a href="events">Events</a> and <a href="resources">Resources</a>.
