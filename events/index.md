@@ -7,15 +7,19 @@ paginationHeading: List of events
 pagination:
   data: collections.event
   size: 10
-
+aside:
+  title: "Sign up for:"
+  content: | 
+    [X-Gov Delivery Community](mailto:barry.traish@dwp.gov.uk?subject=Add%20me%20to%20the%20Agile%20delivery%20community%20meet-up&body=Hello%2C%0D%0A%0D%0APlease%20add%20me%20to%20the%20cross-government%20Agile%20delivery%20community%20meet-up)
+    
 related:
   sections:
-    - title: "Sign up for:"
+    - title: "Check out our:"
       items:
-        - text: X-Gov Delivery Community 
-          href: 
-        - text: DeliverCon
-          href: 
- 
-
+        - text: Events
+          href: ../../events
+        - text: Blogs
+          href: ../../blogs
+        - text: Resources
+          href: ../../resources
 ---

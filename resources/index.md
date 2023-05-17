@@ -8,20 +8,18 @@ pagination:
   data: collections.resource
   size: 10
 aside:
-  title: Aside
+  title: "Sign up for:"
   content: | 
-    A small portion of content that is **indirectly** related to the main content.
+    [X-Gov Delivery Community](mailto:barry.traish@dwp.gov.uk?subject=Add%20me%20to%20the%20Agile%20delivery%20community%20meet-up&body=Hello%2C%0D%0A%0D%0APlease%20add%20me%20to%20the%20cross-government%20Agile%20delivery%20community%20meet-up)
+    
 related:
   sections:
-    - title: Related links
+    - title: "Check out our:"
       items:
-        - text: Layouts
-          href: ../../layouts
-        - text: Options
-          href: ../../options
-      subsections:
-        - title: Eleventy documentation
-          items:
-          - text: Front matter data
-            href: https://www.11ty.dev/docs/data-frontmatter/
+        - text: Events
+          href: ../../events
+        - text: Blogs
+          href: ../../blogs
+        - text: Resources
+          href: ../../resources
 ---
