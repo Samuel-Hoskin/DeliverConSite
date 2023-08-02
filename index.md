@@ -5,15 +5,13 @@ order: 5
 title: DeliverCon
 description: DeliverCon is the annual gathering for delivery managers in and around the public sector.
 startButton:
-  href: "#"
+  href: "mailto:Digital.deliverypractice@dwp.gov.uk?subject=Add%20me%20to%20the%20Agile%20delivery%20community%20meet-up&body=Hello%2C%0D%0A%0D%0APlease%20add%20me%20to%20the%20cross-government%20Agile%20delivery%20community%20meet-up"
   text: Sign up for our Mailing list
 image:
   src: /assets/images/DeliverConLogo.svg
   alt: Delivery Con 2023 Mission Patch with the date 22 February 2023 on it.
 aside:
-  title: "Sign up for:"
-  content: | 
-    [X-Gov Delivery Community](mailto:barry.traish@dwp.gov.uk?subject=Add%20me%20to%20the%20Agile%20delivery%20community%20meet-up&body=Hello%2C%0D%0A%0D%0APlease%20add%20me%20to%20the%20cross-government%20Agile%20delivery%20community%20meet-up)
+
     
 related:
   sections:
