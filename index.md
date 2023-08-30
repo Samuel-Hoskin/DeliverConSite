@@ -2,7 +2,7 @@
 homepage: true
 layout: product
 order: 5
-title: Cross Gov Delivery Community
+title: Welcome
 description: We are a collection of delivery managers across government coming together improve public services.
 startButton:
   href: "mailto:Digital.deliverypractice@dwp.gov.uk?subject=Add%20me%20to%20the%20Agile%20delivery%20community%20meet-up&body=Hello%2C%0D%0A%0D%0APlease%20add%20me%20to%20the%20cross-government%20Agile%20delivery%20community%20meet-up"
