@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     fontFamily: "Arial",
     header: {
-        organisationName: 'DeliverCon',
+        organisationName: 'Cross Gov Delivery Community',
         organisationLogo: false,
         navigation: [
             {
