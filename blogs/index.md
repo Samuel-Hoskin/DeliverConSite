@@ -20,8 +20,6 @@ related:
       items:
         - text: Events
           href: ../../events
-        - text: Blogs
-          href: ../../blogs
         - text: Resources
           href: ../../resources
 

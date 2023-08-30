@@ -9,26 +9,9 @@ image:
   src: /assets/images/DeliverCon2023.jpeg
   alt: A room of people with some standing pitching ideas for sessions.
   caption: Mid Pitching at DeliverCon2023
-authors:
-  - name: Samuel Hoskin
-    url: 
-aside:
-  title: Aside
-  content: | 
-    A small portion of content that is **indirectly** related to the main content.
-related:
-  sections:
-    - title: Related links
-      items:
-        - text: Layouts
-          href: ../../layouts
-        - text: Options
-          href: ../../options
-      subsections:
-        - title: Eleventy documentation
-          items:
-          - text: Front matter data
-            href: https://www.11ty.dev/docs/data-frontmatter/
+author:
+   name: Samuel Hoskin
+   url: 
 tags:
   - event
 

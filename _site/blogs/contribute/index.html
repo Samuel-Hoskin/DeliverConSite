@@ -2,7 +2,7 @@
 <html lang="en" class="govuk-template no-js">
   <head>
     <meta charset="utf-8">
-    <title>DeliverCon2023 - Cross Gov Delivery Community</title>
+    <title>Contribute a blog - Cross Gov Delivery Community</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="theme-color" content="#0b0c0c"> 
     
@@ -14,9 +14,9 @@
 
   <link rel="stylesheet" href="/assets/govuk.css">
 
-  <meta property="og:url" content="/events/DeliverCon2023/">
-  <meta property="og:title" content="DeliverCon2023">
-<meta property="og:description" name="description" content="Layout for date-based content, such as blog posts or news items.">
+  <meta property="og:url" content="/blogs/contribute/">
+  <meta property="og:title" content="Contribute a blog">
+<meta property="og:description" name="description" content="How to contribute a blog to the site.">
     
   </head>
   <body class="govuk-template__body ">
@@ -47,6 +47,7 @@
     <li class="govuk-breadcrumbs__list-item">
       <a class="govuk-breadcrumbs__link" href="/">Home</a>
     </li>
+    <li class="govuk-breadcrumbs__list-item" aria-current="page">Contribute a blog</li>
   </ol>
 </div>
 
@@ -55,10 +56,10 @@
     <div class="govuk-grid-column-full">
       <header class="app-document-header">
   <h1 class="app-document-header__title govuk-heading-xl">
-    DeliverCon2023
+    Contribute a blog
   </h1>
 
-    <p class="app-document-header__metadata">Samuel Hoskin<span aria-hidden="true">&ensp;•&ensp;</span><span class="govuk-visually-hidden">Posted on </span><time datetime="2023-02-22T00:00:00.000Z">22 February 2023</time><span aria-hidden="true">&ensp;•&ensp;</span>Last updated <time datetime="2023-03-27T00:00:00.000Z">27 March 2023</time><span aria-hidden="true">&ensp;•&ensp;</span>Tags:          <a href="" class="govuk-link"></a></p>
+    <p class="app-document-header__metadata"><a class="govuk-link" href="https://twitter.com/Samuel_Hoskin">Sam Hoskin</a><span aria-hidden="true">&ensp;•&ensp;</span><span class="govuk-visually-hidden">Posted on </span><time datetime="2011-12-21T00:00:00.000Z">21 December 2011</time><span aria-hidden="true">&ensp;•&ensp;</span>Last updated <time datetime="2012-12-22T00:00:00.000Z">22 December 2012</time><span aria-hidden="true">&ensp;•&ensp;</span>Tags:          <a href="" class="govuk-link"></a></p>
 </header>
 
 
@@ -66,26 +67,43 @@
 
     <div class="govuk-grid-column-two-thirds-from-desktop">
 <div class="app-prose-scope"><figure>
-            <img src="/assets/images/DeliverCon2023.jpeg" alt="A room of people with some standing pitching ideas for sessions.">
-<figcaption>Mid Pitching at DeliverCon2023</figcaption>
+            <img src="https://cdn.pixabay.com/photo/2015/05/13/22/22/workspace-766045_1280.jpg" alt="A table with a phone, pen, note pad and laptop out, there is hand with red nail polish hovered over the laptop.">
+<figcaption>Getting ready to write a blog</figcaption>
 </figure>
-        <h3 id="venue" tabindex="-1" class="govuk-heading-m">Venue</h3>
-<p class="govuk-body">Defra, one of this years sponsors also provided the space for this event in Birmingham.</p>
-<h3 id="attendance" tabindex="-1" class="govuk-heading-m">Attendance</h3>
-<p class="govuk-body">There was 96 people in attendance from a total of × organisations.</p>
-<h3 id="sessions" tabindex="-1" class="govuk-heading-m">Sessions</h3>
-<p class="govuk-body">We had 4 spaces and 5 sessions throughout the day giving us a total of 20 sessions thought out the day.</p>
-<h3 id="social" tabindex="-1" class="govuk-heading-m">Social</h3>
-<p class="govuk-body">We asked people to share there experience using <a href="https://twitter.com/hashtag/delivercon2023" class="govuk-link">#DeliverCon2023</a>.</p>
-<p class="govuk-body">We also asked people upload any pictures they took to a shared <a href="" class="govuk-link">Google Photos album</a>.</p>
-<p class="govuk-body">We had a pre and post event social at The Old Joint Stock Pub &amp; Theatre (4 Temple Row West, Birmingham, B2 5NY).</p>
-<h3 id="feedback" tabindex="-1" class="govuk-heading-m">Feedback</h3>
-<p class="govuk-body">Feedback received has been overwhelmingly positive:</p>
-<ul class="govuk-list govuk-list--bullet">
-<li>98% people liked x</li>
-<li>10 people said y was great</li>
-<li>Z was the most popular</li>
-</ul>
+        <p class="govuk-body">So you are thinking about uploading a blog to site. Well first thank you for contributing your thoughts and ideas to the community!</p>
+<p class="govuk-body">This site works off of markdown files that are then transformed in to html thought a static site generator.</p>
+<p class="govuk-body">To contribute a post, you will need to make a markdown file.</p>
+<p class="govuk-body">The easiest way to do this is to head over to this <a href="https://github.com/Samuel-Hoskin/DeliverConSite" class="govuk-link">GitHub Repository</a>, click in to <code class="x-govuk-code x-govuk-code--inline">blogs</code> folder, then <code class="x-govuk-code x-govuk-code--inline">Add file</code> + <code class="x-govuk-code x-govuk-code--inline">Create new file</code>.</p>
+<p class="govuk-body">Name the file <code class="x-govuk-code x-govuk-code--inline">[YourBlogTitle].md</code> with no spaces, then copy the below in to the text editor.</p>
+<pre class="x-govuk-code x-govuk-code--block x-govuk-code__language--markdown" tabindex="0"><code>---
+
+layout: post
+includeInBreadcrumbs: true
+order: 3
+title: [title of your blog]
+description: [Short description of your post]
+date: [Date you wrote/upload your post. YYYY-MM-DD format (Required)]
+
+modified: [Date you modified your post. YYYY-MM-DD format (Required)]
+
+image:
+  src: [Link to blog header image (Optional)]
+  alt: [Alt text for picture (Required if have a picture)]
+  caption: [Caption for underneath the photo (Required if have a picture)]
+
+author:
+  name: [Your Name]
+  url: [Link to your Twitter/LinkedIn/Website etc (Optional)]
+
+tags:
+<span class="x-govuk-code__section">  - blog
+---</span>
+
+[Start Writing you blog post here]
+
+</code></pre>
+
+<p class="govuk-body">Remove and amend the box brackets as applicable and then you can write / upload your blog. If you have never written in markdown before you can use this <a href="https://www.markdownguide.org/cheat-sheet/" class="govuk-link">cheat sheet</a> to help you.</p>
 
 </div>
     </div>
