@@ -5,10 +5,12 @@ title: DeliverCon2024
 description: DeliverCon2024 will take place on 18 April 2024 in central Cardiff.
 date: 2024-04-18
 modified: 2024-02-12
+image: 
+  src: /assets/images/DeliverCon24.png
+  alt: DeliverCon2024 logo - Welsh dragon riding the rocket into space! Top text - Cynhadledd Cyflawni 2024. Bottom text - Caerydd Ebrill 18fed 2024.
 author:
    name: Zuz Kopecka
-tags:
-  - event
+tags: event
 
 
 ---
@@ -23,3 +25,4 @@ We are planning to release up to 200 tickets for the event. Watch out for announ
 
 ### Sessions
 
+This event will be an unconference, meaning the sessions will be pitched on the day by the attendees. If you'd like to discuss any ideas for sessions in advance, you can post in #delivercon channel on cross-gov Slack. 
