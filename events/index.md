@@ -7,6 +7,8 @@ paginationHeading: List of events
 pagination:
   data: collections.event
   size: 10
+
+
 aside:
   title: "Sign up for:"
   content: | 

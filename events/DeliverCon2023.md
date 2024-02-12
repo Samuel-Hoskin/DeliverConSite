@@ -1,6 +1,6 @@
 ---
 layout: post
-order: 3
+order: 1
 title: DeliverCon2023
 description: Layout for date-based content, such as blog posts or news items.
 date: 2023-02-22
