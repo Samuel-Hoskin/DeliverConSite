@@ -3,9 +3,9 @@ homepage: true
 layout: product
 order: 5
 title: Welcome
-description: We are a collection of delivery managers across government coming together improve public services.
+description: We are the annual unconfrence for delivery mamagers in and around the public sector. We come together as a comunity to develop our profession and improve public services.
 startButton:
-  href: "mailto:Digital.deliverypractice@dwp.gov.uk?subject=Add%20me%20to%20the%20Agile%20delivery%20community%20meet-up&body=Hello%2C%0D%0A%0D%0APlease%20add%20me%20to%20the%20cross-government%20Agile%20delivery%20community%20meet-up"
+  href: "https://lu.ma/DeliverCon"
   text: Sign up for our Mailing list
 image:
   src: /assets/images/DeliverCon24.png
@@ -16,53 +16,74 @@ related:
   sections:
     - title: "Check out our:"
       items:
-        - text: Events
+        - text: Previous Events
           href: ../../events
-        - text: Resources
-          href: ../../resources
-      
+        - text: Code of Conduct
+          href: ../../code-of-conduct
 ---
 
-### Why does this community exist?
+### Key Details
 
-We exist to:
+​📌MoJ, 102 Petty France, London SW1H 9AJ
 
-  - share information about how to deliver digital projects in the public sector,
-  - create the opportunity to share experiences, observed behaviours and best practice,
-  - give us space to discuss and challenge how we deliver government projects and products.
+​📅Thursday 07th November 2024
 
-Read more in the [GOV.UK Service Manual](https://www.gov.uk/service-manual/communities/agile-delivery-community).
+🛜GovWifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
+### Day Timings
 
-### Who is this community's for?
+09:00 to 10:00 - Doors Open & Regisration 
+10:00 to 10:45 - Intro and Session Generation
+11:00 to 11:45 - Session 1
+12:00 to 12:45 - Session 2
+12:45 to 13:45 - Lunch 
+13:45 to 14:30 - Session 3
+14:45 to 15:30 - Session 4
+15:45 to 16:30 - Session 5
+16:30 to 17:00 - Closing Remarks
 
-If you're a public sector [delivery manager](https://www.gov.uk/guidance/delivery-manager) then you've come to the right place.
 
-You might be interested in the community if you use (or want to use) agile or waterfall methods to deliver government projects or products.
+### Agenda
 
-You don’t have to be in a software development team to join. We have community members from policy, capability and operations. 
+#### Session 1
 
-### What is the community offer?
+| Room | Session |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-Gov DMs in the Ether - A monthly lean coffee discussion where DMs bring their problems and hot topics. Signup here.
+#### Session 2
 
-Community Meetup - A monthly session with speakers on interesting topics, discussions, interactive workshops. A space for collaboration, learning, improvement, and discussion. Signup to receive calendar invites. See the calendar for upcoming sessions
+| Room | Session |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-Youtube - Recordings of previous meetups, full of useful wisdom and information.
+#### Session 3
 
-DeliverCon - the annual conference for gov DMs since 2019. See here for details of previous events. The next one is xxx.
+| Room | Session |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-Slack - An open forum to ask questions and raise discussions, and delivery community updates will be posted here also. Signup here with your gov mail and join the #deliverymgmt channel.
+#### Session 4
 
-Twitter - used for information about DeliverCon - follow it here.
+| Room | Session |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-gov.uk pages - Official information about Delivery Management and community
+#### Session 5
 
-This website! - Our central hub for all things cross gov delivery community.
+| Room | Session |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 
 ### When is our next event?
 
 Check out our [events page]() to find out about upcoming events
 
-<a href="#" role="button" draggable="false" class="govuk-button govuk-button--start" data-module="govuk-button">
+<a href="https://lu.ma/DeliverCon" role="button" draggable="false" class="govuk-button govuk-button--start" data-module="govuk-button">
   Sign up to the mailing list
   </a>

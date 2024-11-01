@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     fontFamily: "Arial",
     header: {
-        organisationName: 'Cross Gov Delivery Community',
+        organisationName: 'DeliverCon',
         organisationLogo: false,
         navigation: [
             {
@@ -43,8 +43,8 @@ module.exports = function(eleventyConfig) {
         meta:{
             items: [
                 {
-                  href: "/privacypolicy",
-                  text: "Privacy Policy"
+                  href: "/unconfrence",
+                  text: "What is an Unconference?"
                 },
                 {
                   href: "/code-of-conduct",
