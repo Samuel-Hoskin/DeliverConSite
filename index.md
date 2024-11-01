@@ -21,6 +21,7 @@ aside:
 ​📅Thursday 07th November 2024
 
 🛜GovWifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
+
 ### Day Timings
 
 09:00 to 10:00 - Doors Open & Regisration 
