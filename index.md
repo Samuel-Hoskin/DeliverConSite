@@ -8,7 +8,7 @@ startButton:
   href: "https://lu.ma/DeliverCon"
   text: Sign up for our Mailing list
 image:
-  src: /assets/images/DeliverCon24.png
+  src: /assets/images/DeliverCon 24.2 Sticker.svg
   alt: DeliverCon2024 logo - Welsh dragon riding the rocket into space! Top text - Cynhadledd Cyflawni 2024. Bottom text - Caerydd Ebrill 18fed 2024.
 aside:
     
