@@ -49,8 +49,9 @@ Room 2 - Cloak Room
 | Room 5 | [Session Sourcing Pending] |
 | Room 6 | [Session Sourcing Pending] |
 | Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room 8 | Overflow |
+| Room 9 | Overflow |
+
 
 #### Session 2
 
@@ -61,8 +62,9 @@ Room 2 - Cloak Room
 | Room 5 | [Session Sourcing Pending] |
 | Room 6 | [Session Sourcing Pending] |
 | Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room 8 | Overflow |
+| Room 9 | Overflow |
+
 
 #### Session 3
 
@@ -73,8 +75,8 @@ Room 2 - Cloak Room
 | Room 5 | [Session Sourcing Pending] |
 | Room 6 | [Session Sourcing Pending] |
 | Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room 8 | Overflow |
+| Room 9 | Overflow |
 
 #### Session 4
 
@@ -85,8 +87,9 @@ Room 2 - Cloak Room
 | Room 5 | [Session Sourcing Pending] |
 | Room 6 | [Session Sourcing Pending] |
 | Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room 8 | Overflow |
+| Room 9 | Overflow |
+
 
 #### Session 5
 
@@ -97,8 +100,9 @@ Room 2 - Cloak Room
 | Room 5 | [Session Sourcing Pending] |
 | Room 6 | [Session Sourcing Pending] |
 | Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room 8 | Overflow |
+| Room 9 | Overflow |
+
 
 
 ### When is our next event?
