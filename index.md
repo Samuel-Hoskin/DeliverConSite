@@ -22,6 +22,9 @@ aside:
 
 🛜GovWifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
 
+Room 1 - Main Room, Please comeback to this room after each session
+Room 2 - Cloak Room 
+
 ### Day Timings
 
 09:00 to 10:00 - Doors Open & Regisration 
@@ -41,41 +44,65 @@ aside:
 
 | Room | Session |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Room 3 | [Session Sourcing Pending] |
+| Room 4 | [Session Sourcing Pending] |
+| Room 5 | [Session Sourcing Pending] |
+| Room 6 | [Session Sourcing Pending] |
+| Room 7 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
 
 #### Session 2
 
 | Room | Session |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Room 3 | [Session Sourcing Pending] |
+| Room 4 | [Session Sourcing Pending] |
+| Room 5 | [Session Sourcing Pending] |
+| Room 6 | [Session Sourcing Pending] |
+| Room 7 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
 
 #### Session 3
 
 | Room | Session |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Room 3 | [Session Sourcing Pending] |
+| Room 4 | [Session Sourcing Pending] |
+| Room 5 | [Session Sourcing Pending] |
+| Room 6 | [Session Sourcing Pending] |
+| Room 7 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
 
 #### Session 4
 
 | Room | Session |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Room 3 | [Session Sourcing Pending] |
+| Room 4 | [Session Sourcing Pending] |
+| Room 5 | [Session Sourcing Pending] |
+| Room 6 | [Session Sourcing Pending] |
+| Room 7 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
 
 #### Session 5
 
 | Room | Session |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Room 3 | [Session Sourcing Pending] |
+| Room 4 | [Session Sourcing Pending] |
+| Room 5 | [Session Sourcing Pending] |
+| Room 6 | [Session Sourcing Pending] |
+| Room 7 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
+| Room 8 | [Session Sourcing Pending] |
 
 
 ### When is our next event?
 
-Check out our [events page]() to find out about upcoming events
 
 <a href="https://lu.ma/DeliverCon" role="button" draggable="false" class="govuk-button govuk-button--start" data-module="govuk-button">
   Sign up to the mailing list
