@@ -40,7 +40,7 @@ Room 2 - Cloak Room
 
 ### Agenda
 
-#### Session 1
+#### Session 1 - 10:10 to 10:55
 
 | Room | Session |
 | ----------- | ----------- |
