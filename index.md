@@ -85,8 +85,7 @@ aside:
 | 7 | What is the biggest challenge for face as a delivery manager? |
 
 
-### When our next event is
 
 <a href="https://lu.ma/DeliverCon" role="button" draggable="false" class="govuk-button govuk-button--start" data-module="govuk-button">
   Sign up to the mailing list
-  </a> so we can let you know, please. 
+  </a>
