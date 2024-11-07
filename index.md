@@ -29,9 +29,9 @@ Room 2 - Cloak Room
 
 09:00 to 10:00 - Doors Open & Regisration 
 10:00 to 10:45 - Intro and Session Generation
-11:00 to 11:45 - Session 1
-12:00 to 12:45 - Session 2
-12:45 to 13:45 - Lunch 
+11:10 to 11:55 - Session 1
+12:10 to 12:55 - Session 2
+12:55 to 13:45 - Lunch 
 13:45 to 14:30 - Session 3
 14:45 to 15:30 - Session 4
 15:45 to 16:30 - Session 5
