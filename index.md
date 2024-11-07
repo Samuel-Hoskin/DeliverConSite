@@ -38,9 +38,9 @@ Room 2 - Cloak Room
 16:30 to 17:00 - Closing Remarks
 
 
-### Agenda
+## Agenda
 
-#### Session 1 - 11:10 to 11:55
+### Session 1 - 11:10 to 11:55
 
 | Room | Session |
 | ----------- | ----------- |
@@ -53,7 +53,7 @@ Room 2 - Cloak Room
 | Room 9 | Overflow |
 
 
-#### Session 2 - 12:10 to 12:55
+### Session 2 - 12:10 to 12:55
 
 | Room | Session |
 | ----------- | ----------- |
@@ -69,7 +69,7 @@ Room 2 - Cloak Room
 ### Lunch - 12:55 to 13:45
 
 
-#### Session 3
+### Session 3 - 13:45 to 14:30
 
 | Room | Session |
 | ----------- | ----------- |
@@ -81,7 +81,7 @@ Room 2 - Cloak Room
 | Room 8 | Overflow |
 | Room 9 | Overflow |
 
-#### Session 4
+### Session 4 - 14:45 to 15:30
 
 | Room | Session |
 | ----------- | ----------- |
@@ -94,7 +94,7 @@ Room 2 - Cloak Room
 | Room 9 | Overflow |
 
 
-#### Session 5
+### Session 5 - 15:45 to 16:30
 
 | Room | Session |
 | ----------- | ----------- |
