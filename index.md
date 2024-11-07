@@ -22,7 +22,7 @@ aside:
 
 🛜 - GovWifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
 
-📷[Pictures of notes](https://photos.app.goo.gl/Qpjgvz1A1pYhL5xp7) 
+📷 - [Pictures of notes](https://photos.app.goo.gl/Qpjgvz1A1pYhL5xp7) 
 
 Room 1 - Main Room, Please comeback to this room after each session
 Room 2 - Cloak Room 
