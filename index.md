@@ -24,8 +24,6 @@ aside:
 
 📷 - [Pictures of notes](https://photos.app.goo.gl/Qpjgvz1A1pYhL5xp7) 
 
-Room 1 - Main Room, Please comeback to this room after each session
-Room 2 - Cloak Room 
 
 ### Day Timings
 
