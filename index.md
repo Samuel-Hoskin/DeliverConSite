@@ -60,7 +60,7 @@ Room 2 - Cloak Room
 | Room 3 | How to grow as a delivery manager |
 | Room 4 | Best things / activities to do async versus in person |
 | Room 5 | How do you keep teams engaged during change? |
-| Room 6 | How can youas a delivery manager help retain organisational memory? |
+| Room 6 | How can you as a delivery manager help retain organisational memory? |
 | Room 7 | How to drive agility in non-agile environments (championing agile) |
 | Room 8 | Overflow |
 | Room 9 | Overflow |
