@@ -5,8 +5,8 @@ order: 5
 title: Welcome
 description: We are the annual unconfrence for delivery mamagers in and around the public sector. We come together as a comunity to develop our profession and improve public services.
 startButton:
-  href: "https://lu.ma/DeliverCon"
-  text: Sign up for our Mailing list
+  href: "https://forms.office.com/e/fbq5ER1B2H"
+  text: Provide Feedback for DelvierCon 2024.2
 image:
   src: /assets/images/DeliverCon 24.2 Sticker.svg
   alt: DeliverCon2024 logo - Welsh dragon riding the rocket into space! Top text - Cynhadledd Cyflawni 2024. Bottom text - Caerydd Ebrill 18fed 2024.
@@ -16,11 +16,11 @@ aside:
 
 ### Key Details
 
-​📌MoJ, 102 Petty France, London SW1H 9AJ
+​📌 - MoJ, 102 Petty France, London SW1H 9AJ
 
-​📅Thursday 07th November 2024
+​📅 - Thursday 07th November 2024
 
-🛜GovWifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
+🛜 - GovWifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
 
 📷[Pictures of notes](https://photos.app.goo.gl/Qpjgvz1A1pYhL5xp7) 
 
@@ -107,6 +107,10 @@ Room 2 - Cloak Room
 | Room 7 | What is the biggest challenge for face as a delivery manager? |
 | Room 8 | Overflow |
 | Room 9 | Overflow |
+
+
+### Closing Remarks - 16:30
+Please come back to the main room 
 
 
 
