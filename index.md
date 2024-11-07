@@ -73,11 +73,11 @@ Room 2 - Cloak Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room 3 | [Session Sourcing Pending] |
-| Room 4 | [Session Sourcing Pending] |
-| Room 5 | [Session Sourcing Pending] |
-| Room 6 | [Session Sourcing Pending] |
-| Room 7 | [Session Sourcing Pending] |
+| Room 3 | How can we quantify the contribution of delivery managers? |
+| Room 4 | The difference between deliver manager and product manager roles|
+| Room 5 | Is 100% agile working really right or achievable for government? |
+| Room 6 | How safe / empowered do we (as delivery managers) feel we can challenge thinking? |
+| Room 7 | What are we doing differently as a result of hiring freezes? |
 | Room 8 | Overflow |
 | Room 9 | Overflow |
 
