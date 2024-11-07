@@ -6,7 +6,7 @@ title: Welcome
 description: We are the annual unconfrence for delivery mamagers in and around the public sector. We come together as a comunity to develop our profession and improve public services.
 startButton:
   href: "https://forms.office.com/e/fbq5ER1B2H"
-  text: Provide Feedback for DelvierCon 2024.2
+  text: Provide Feedback for DeliverCon 2024.2
 image:
   src: /assets/images/DeliverCon 24.2 Sticker.svg
   alt: DeliverCon2024 logo - Welsh dragon riding the rocket into space! Top text - Cynhadledd Cyflawni 2024. Bottom text - Caerydd Ebrill 18fed 2024.
