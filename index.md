@@ -45,7 +45,7 @@ Room 2 - Cloak Room
 | Room | Session |
 | ----------- | ----------- |
 | Room 3 | How can digital collaboration be more effective? |
-| Room 4 | Top tips for being a great delivery manager |
+| Main room | Top tips for being a great delivery manager |
 | Room 5 | How to use AI in delivery |
 | Room 6 | Dealing with conflict |
 | Room 7 | What do you think about SME contractors versus permanent employees? |
