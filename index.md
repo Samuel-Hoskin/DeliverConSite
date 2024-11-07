@@ -3,7 +3,7 @@ homepage: true
 layout: product
 order: 5
 title: Welcome
-description: We are the annual unconfrence for delivery mamagers in and around the public sector. We come together as a comunity to develop our profession and improve public services.
+description: We're the biannual unconference for delivery managers in and around the public sector. We come together as a community to develop our profession and improve public services.
 startButton:
   href: "https://forms.office.com/e/fbq5ER1B2H"
   text: Provide Feedback for DeliverCon 2024.2
