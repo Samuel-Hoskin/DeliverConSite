@@ -98,11 +98,11 @@ Room 2 - Cloak Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room 3 | [Session Sourcing Pending] |
-| Room 4 | [Session Sourcing Pending] |
-| Room 5 | [Session Sourcing Pending] |
-| Room 6 | [Session Sourcing Pending] |
-| Room 7 | [Session Sourcing Pending] |
+| Room 3 | What **isn't** delivery management? |
+| Room 4 | How can we collaborate across organisations to be effective |
+| Room 5 | How do you make stand ups more interesting and interactive? |
+| Room 6 | How do we start a useful community of practice and grow it? |
+| Room 7 | What is the biggest challenge for face as a delivery manager? |
 | Room 8 | Overflow |
 | Room 9 | Overflow |
 
