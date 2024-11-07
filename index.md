@@ -85,11 +85,11 @@ Room 2 - Cloak Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room 3 | [Session Sourcing Pending] |
-| Room 4 | [Session Sourcing Pending] |
-| Room 5 | [Session Sourcing Pending] |
-| Room 6 | [Session Sourcing Pending] |
-| Room 7 | [Session Sourcing Pending] |
+| Room 3 | How do we bring positive energy, when we feel negative?  |
+| Room 4 | How to effectively delivery manage introverts? |
+| Room 5 | What to measure to assess team effectiveness? |
+| Room 6 | What would a delivery manager apprenticeship look like? |
+| Room 7 | How can we change organisational design / structure to enable delivery? |
 | Room 8 | Overflow |
 | Room 9 | Overflow |
 
