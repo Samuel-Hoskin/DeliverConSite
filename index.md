@@ -19,7 +19,7 @@ aside:
 
 ​📌 - MoJ, 102 Petty France, London SW1H 9AJ
 
-​📅 - Thursday 07th November 2024
+​📅 - 10:00 Thursday 7 November 2024
 
 🛜 - GovWifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
 
@@ -37,8 +37,6 @@ aside:
 | Room 5 | How to use AI in delivery |
 | Room 6 | Dealing with conflict |
 | Room 7 | What do you think about SME contractors versus permanent employees? |
-| Room 8 | Overflow |
-| Room 9 | Overflow |
 
 
 ### Session 2 - 12:10 to 12:55
@@ -50,8 +48,6 @@ aside:
 | Room 5 | How do you keep teams engaged during change? |
 | Room 6 | How can you as a delivery manager help retain organisational memory? |
 | Room 7 | How to drive agility in non-agile environments (championing agile) |
-| Room 8 | Overflow |
-| Room 9 | Overflow |
 
 
 ### Lunch - 12:55 to 13:45
@@ -66,8 +62,6 @@ aside:
 | Room 5 | Is 100% agile working really right or achievable for government? |
 | Room 6 | How safe / empowered do we (as delivery managers) feel we can challenge thinking? |
 | Room 7 | What are we doing differently as a result of hiring freezes? |
-| Room 8 | Overflow |
-| Room 9 | Overflow |
 
 ### Session 4 - 14:45 to 15:30
 
@@ -78,8 +72,6 @@ aside:
 | Room 5 | What to measure to assess team effectiveness? |
 | Room 6 | What would a delivery manager apprenticeship look like? |
 | Room 7 | How can we change organisational design / structure to enable delivery? |
-| Room 8 | Overflow |
-| Room 9 | Overflow |
 
 
 ### Session 5 - 15:45 to 16:30
@@ -91,17 +83,9 @@ aside:
 | Room 5 | How do you make stand ups more interesting and interactive? |
 | Room 6 | How do we start a useful community of practice and grow it? |
 | Room 7 | What is the biggest challenge for face as a delivery manager? |
-| Room 8 | Overflow |
-| Room 9 | Overflow |
-
-
-### Closing Remarks - 16:30
-Please come back to the main room 
-
 
 
 ### When is our next event?
-
 
 <a href="https://lu.ma/DeliverCon" role="button" draggable="false" class="govuk-button govuk-button--start" data-module="govuk-button">
   Sign up to the mailing list
