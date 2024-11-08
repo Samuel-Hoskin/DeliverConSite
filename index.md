@@ -23,7 +23,11 @@ aside:
 
 🛜 Gov Wifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
 
-📷 [Pictures of notes](https://photos.app.goo.gl/Qpjgvz1A1pYhL5xp7) 
+📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/Qpjgvz1A1pYhL5xp7)
+
+📚 Notes (Written) - [Google Drive](https://drive.google.com/drive/folders/1oMG4MzEfECm6oGj7596-kUMgsQwNWqFK?usp=sharing)
+
+📷 Pictures of the day - [Google Photo Album](https://photos.app.goo.gl/o5kMkDg3Q6px8QAb9)
 
 
 ## Agenda
