@@ -7,7 +7,7 @@ date: 2024-04-18
 modified: 2024-11-01
 image: 
   src: /assets/images/IMG-20240419-WA0010.jpg
-  alt: DeliverCon2024 logo - Welsh dragon riding the rocket into space! Top text - Cynhadledd Cyflawni 2024. Bottom text - Caerydd Ebrill 18fed 2024.
+  alt: Crowd of people attending DeliverCon2024
 author:
    name: Samuel Hoskin
 tags: event
