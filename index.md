@@ -8,8 +8,8 @@ startButton:
   href: "https://lu.ma/xm4sg0dc"
   text: Tickets for DeliverCon 2025
 image:
-  src: /assets/images/DeliverCon 24.2 Sticker.svg
-  alt: DeliverCon2024 logo - Welsh dragon riding the rocket into space! Top text - Cynhadledd Cyflawni 2024. Bottom text - Caerydd Ebrill 18fed 2024.
+  src: /assets/images/DeliverCon-Default-Sticker.svg
+  alt: DeliverCon logo
 aside:
   title: "Check out:"
   content: | 
