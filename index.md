@@ -20,7 +20,9 @@ aside:
 
 We're thrilled to announce that DeliverCon is back, taking place on 21st May 2025 📅 in the historic city of York 🏰!
 
-Mark your calendars because the first batch of tickets 🎟️ will be released next Thursday, 6th March at 11:00 AM ⏰.
+We are always impressed, the first batch of 100 tickets sold out in just 15 minutues.
+
+Mark your calendars for the second batch of tickets 🎟️ will be released next Tuesday, 8th April at 11:00 AM ⏰.
 
 Don't miss out—join us for a day of insights, networking, and all things delivery, leadership, and innovation!
 
