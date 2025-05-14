@@ -43,7 +43,7 @@ module.exports = function(eleventyConfig) {
         meta:{
             items: [
                 {
-                  href: "/unconfrence",
+                  href: "/unconference",
                   text: "What is an Unconference?"
                 },
                 {
