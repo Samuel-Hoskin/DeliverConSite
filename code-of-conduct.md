@@ -7,7 +7,7 @@ description: Expected behavior from participants at DeliverCon events
 
  <!-- Our code of conduct is based on the one in use at [UK Gov Camp](https://www.ukgovcamp.com/code-of-conduct/). -->
 
-Need to report an incident? Contact the DeliverCon organisers at: info@delivercon.uk or call on at 07
+Need to report an incident? Contact the DeliverCon organisers at: info@delivercon.uk or call on at [07919 691980](tel:+447919691980)
 
 ---
 We (the organisers of DeliverCon) believe that our spaces (Physical and Online) should be free from harassment, bullying and hate. 
@@ -41,7 +41,7 @@ If you take photos or videos it is your responsibility to observe people's choic
 
 How to report an incident: 
 
-If you believe you’re experiencing unacceptable behaviour as outlined above, please contact an organiser at: info@delivercon.uk or call Sam on 07
+If you believe you’re experiencing unacceptable behaviour as outlined above, please contact an organiser at: info@delivercon.uk or call Sam on [07919 691980](tel:+447919691980)
 
 
 Please also tell us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines; even if the situation is not happening to you. We are here to help. 
