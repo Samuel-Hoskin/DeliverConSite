@@ -42,6 +42,10 @@ We're thrilled to announce that DeliverCon is back, taking place on 21st May 202
 16:30 to 16:45 - Closing Remarks
 17:30 - Evening Social
 
+### Map
+
+[Image Pending]
+
 ### Agenda
 
 #### Session 1
@@ -108,3 +112,9 @@ We're thrilled to announce that DeliverCon is back, taking place on 21st May 202
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
+
+[📃 Notes (Photos) - [Google Photo Album]()]: #
+
+[📚 Notes (Written) - [Google Drive]()]: #
+
+[📷 Pictures of the day - [Google Photo Album]()]: #
