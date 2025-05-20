@@ -8,8 +8,8 @@ startButton:
   href: "https://lu.ma/DeliverCon"
   text: Subscribe to the mailing list
 image:
-  src: /assets/images/DeliverCon-Default-Sticker.svg
-  alt: DeliverCon logo
+  src: /assets/images/DeliverCon25.svg
+  alt: DeliverCon 2025 event sticker
 aside:
   title: "Check out:"
   content: | 
