@@ -5,8 +5,8 @@ order: 5
 title: Welcome
 description: We're the biannual unconference for delivery managers in and around the public sector. We come together as a community to develop our profession and improve public services.
 startButton:
-  href: "https://lu.ma/xm4sg0dc"
-  text: Tickets for DeliverCon 2025
+  href: "https://lu.ma/DeliverCon"
+  text: Subscribe to the mailing list
 image:
   src: /assets/images/DeliverCon-Default-Sticker.svg
   alt: DeliverCon logo
