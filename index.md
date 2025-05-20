@@ -37,7 +37,7 @@ We're thrilled to announce that DeliverCon is back, taking place on 21st May 202
 12:45 to 13:45 - Lunch 
 13:45 to 14:30 - Session 3
 14:45 to 15:30 - Session 4
-15:00 to 16:00 - Afternoon Break 
+15:30 to 16:00 - Afternoon Break 
 16:00 to 16:30 - Session 5
 16:30 to 16:45 - Closing Remarks
 17:30 - Evening Social
@@ -48,58 +48,63 @@ We're thrilled to announce that DeliverCon is back, taking place on 21st May 202
 
 | Room | Session |
 | ----------- | ----------- |
-| Room 3 | [Session Sourcing Pending] |
-| Room 4 | [Session Sourcing Pending] |
-| Room 5 | [Session Sourcing Pending] |
-| Room 6 | [Session Sourcing Pending] |
-| Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room A | [Session Sourcing Pending] |
+| Room B | [Session Sourcing Pending] |
+| Room C | [Session Sourcing Pending] |
+| Room D | [Session Sourcing Pending] |
+| Room E | [Session Sourcing Pending] |
+| Room 1 | Overflow Room |
+| Room 2 | Overflow Room |
+| Room 3 | Overflow Room |
 
 #### Session 2
 
 | Room | Session |
 | ----------- | ----------- |
-| Room 3 | [Session Sourcing Pending] |
-| Room 4 | [Session Sourcing Pending] |
-| Room 5 | [Session Sourcing Pending] |
-| Room 6 | [Session Sourcing Pending] |
-| Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room A | [Session Sourcing Pending] |
+| Room B | [Session Sourcing Pending] |
+| Room C | [Session Sourcing Pending] |
+| Room D | [Session Sourcing Pending] |
+| Room E | [Session Sourcing Pending] |
+| Room 1 | Overflow Room |
+| Room 2 | Overflow Room |
+| Room 3 | Overflow Room |
 
 #### Session 3
 
 | Room | Session |
 | ----------- | ----------- |
-| Room 3 | [Session Sourcing Pending] |
-| Room 4 | [Session Sourcing Pending] |
-| Room 5 | [Session Sourcing Pending] |
-| Room 6 | [Session Sourcing Pending] |
-| Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room A | [Session Sourcing Pending] |
+| Room B | [Session Sourcing Pending] |
+| Room C | [Session Sourcing Pending] |
+| Room D | [Session Sourcing Pending] |
+| Room E | [Session Sourcing Pending] |
+| Room 1 | Overflow Room |
+| Room 2 | Overflow Room |
+| Room 3 | Overflow Room |
 
 #### Session 4
 
 | Room | Session |
 | ----------- | ----------- |
-| Room 3 | [Session Sourcing Pending] |
-| Room 4 | [Session Sourcing Pending] |
-| Room 5 | [Session Sourcing Pending] |
-| Room 6 | [Session Sourcing Pending] |
-| Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room A | [Session Sourcing Pending] |
+| Room B | [Session Sourcing Pending] |
+| Room C | [Session Sourcing Pending] |
+| Room D | [Session Sourcing Pending] |
+| Room E | [Session Sourcing Pending] |
+| Room 1 | Overflow Room |
+| Room 2 | Overflow Room |
+| Room 3 | Overflow Room |
 
 #### Session 5
 
 | Room | Session |
 | ----------- | ----------- |
-| Room 3 | [Session Sourcing Pending] |
-| Room 4 | [Session Sourcing Pending] |
-| Room 5 | [Session Sourcing Pending] |
-| Room 6 | [Session Sourcing Pending] |
-| Room 7 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
-| Room 8 | [Session Sourcing Pending] |
+| Room A | [Session Sourcing Pending] |
+| Room B | [Session Sourcing Pending] |
+| Room C | [Session Sourcing Pending] |
+| Room D | [Session Sourcing Pending] |
+| Room E | [Session Sourcing Pending] |
+| Room 1 | Overflow Room |
+| Room 2 | Overflow Room |
+| Room 3 | Overflow Room |
