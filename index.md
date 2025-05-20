@@ -46,6 +46,12 @@ We're thrilled to announce that DeliverCon is back, taking place on 21st May 202
 
 [Image Pending]
 
+### Other Rooms
+
+Room Q - Quite Room
+
+Room W - Workspace Room
+
 ### Agenda
 
 #### Session 1
