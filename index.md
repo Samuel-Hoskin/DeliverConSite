@@ -24,7 +24,7 @@ We're thrilled to announce that DeliverCon is back, taking place on 21st May 202
 
 ​📌 - Defra, Foss House, Kings Pool 1–2, Peasholme Green, York, YO1 7PX
 
-​📅 - Wednesday 21st May 2025
+​📅 - Wednesday 21st May 2025, Doors open at 9am, Event starts at 10am
 
 🛜 - GovWifi - [Connection Guide](https://www.wifi.service.gov.uk/connect-to-govwifi/)
 
