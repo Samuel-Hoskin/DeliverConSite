@@ -113,8 +113,3 @@ We're thrilled to announce that DeliverCon is back, taking place on 21st May 202
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
 
-[📃 Notes (Photos) - [Google Photo Album]()]: #
-
-[📚 Notes (Written) - [Google Drive]()]: #
-
-[📷 Pictures of the day - [Google Photo Album]()]: #
