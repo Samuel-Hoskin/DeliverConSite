@@ -97,11 +97,11 @@ Room W - Workspace Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room A | [Session Sourcing Pending] |
-| Room B | [Session Sourcing Pending] |
-| Room C | [Session Sourcing Pending] |
-| Room D | [Session Sourcing Pending] |
-| Room E | [Session Sourcing Pending] |
+| Room A | How AI will change delivery management |
+| Room B | How to wear many hats, eg merged PM/DM |
+| Room C | How to bring back optimism |
+| Room D | How DMs can affect product strategy |
+| Room E | Emotional leadership as a DM |
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
