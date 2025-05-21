@@ -75,7 +75,7 @@ Room W - Workspace Room
 | Room B | Being more T shaped, whilst teams & budgets strink |
 | Room C | How to delivery manager a cyber attack |
 | Room D | Managing developers and live services |
-| Room E | How to enable more transfers between departments |
+| Room E | How more people can more between departments and share|
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
@@ -88,7 +88,7 @@ Room W - Workspace Room
 | Room B | How to share knowledge of common problems |
 | Room C | Pre-discovery - what's our role and how to add value? |
 | Room D | Good product and delivery managers relationships |
-| Room E | How to make "good enough" the teams's default |
+| Room E | How to makthe e "good enough" the teams's default |
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
