@@ -58,11 +58,11 @@ Room W - Workspace Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room A | [Session Sourcing Pending] |
-| Room B | [Session Sourcing Pending] |
-| Room C | [Session Sourcing Pending] |
-| Room D | [Session Sourcing Pending] |
-| Room E | [Session Sourcing Pending] |
+| Room A | Dealing with Burnout - Let's talk |
+| Room B | What is the most annoying think about being in delivery |
+| Room C | Velocity is dead - What should we measure instead? |
+| Room D | Delivery Manager joing an estabilisted team - how do you go about it? |
+| Room E | What was the single most useful 'thing' you did / learned/ expreinced that helped you with your career|
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
