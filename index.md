@@ -34,10 +34,9 @@ We're thrilled to announce that DeliverCon is back, taking place on 21st May 202
 10:00 to 10:45 - Intro and Session Generation
 11:00 to 11:45 - Session 1
 12:00 to 12:45 - Session 2
-13:00 to 13:30 - Session 3
-13:30 to 14:30 - Lunch 
-14:30 to 15:15 - Session 4
-15:30 to 16:00 - Afternoon Break 
+13:00 to 13:45 - Session 3
+13:45 to 14:45 - Lunch 
+14:45 to 15:30 - Session 4
 15:45 to 16:30 - Session 5
 16:30 to 16:45 - Closing Remarks
 17:15 - Evening Social
