@@ -110,11 +110,11 @@ Room W - Workspace Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room A | [Session Sourcing Pending] |
-| Room B | [Session Sourcing Pending] |
-| Room C | [Session Sourcing Pending] |
-| Room D | [Session Sourcing Pending] |
-| Room E | [Session Sourcing Pending] |
+| Room A | Managing conflict in teams |
+| Room B | Fully self organised teams don't work |
+| Room C | How to get senior management to investing teams, not projects |
+| Room D | Dealing with pushy stakeholders who don't get digital |
+| Room E | Banish your facilitation gremlins |
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
