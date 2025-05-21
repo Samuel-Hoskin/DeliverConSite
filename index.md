@@ -71,11 +71,11 @@ Room W - Workspace Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room A | How to do agile, goverance and get stuff done |
-| Room B | Being more T shaped, whilst teams & budgets strink |
-| Room C | How to delivery manager a cyber attack |
-| Room D | Managing developers and live services |
-| Room E | How more people can more between departments and share|
+| Room A | How do we limit goverance to get stuff done? |
+| Room B | How do you feel about the increaseing need to be more T shaped as teams & budgets strink? |
+| Room C | "Keep Calm and use your DM Skills" - How to delivery manager a cyber attack. |
+| Room D | Tips to manage deve while maintaing live services |
+| Room E | How can we enable more transfers between departments |
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
