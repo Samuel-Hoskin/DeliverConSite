@@ -71,11 +71,11 @@ Room W - Workspace Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room A | [Session Sourcing Pending] |
-| Room B | [Session Sourcing Pending] |
-| Room C | [Session Sourcing Pending] |
-| Room D | [Session Sourcing Pending] |
-| Room E | [Session Sourcing Pending] |
+| Room A | How to do agile, goverance and get stuff done |
+| Room B | Being more T shaped, whilst teams & budgets strink |
+| Room C | How to delivery manager a cyber attack |
+| Room D | Manage developers and live services |
+| Room E | How to enable transfers between departments |
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
