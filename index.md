@@ -84,11 +84,11 @@ Room W - Workspace Room
 
 | Room | Session |
 | ----------- | ----------- |
-| Room A | [Session Sourcing Pending] |
-| Room B | [Session Sourcing Pending] |
-| Room C | [Session Sourcing Pending] |
-| Room D | [Session Sourcing Pending] |
-| Room E | [Session Sourcing Pending] |
+| Room A | Unite, find common issues and build a toolbox |
+| Room B | How to share knowledge of common problems |
+| Room C | Pre-discovery - what's our role and how to add value? |
+| Room D | Good product and delivery managers relationships |
+| Room E | How to make "good enough" the teams's default |
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
