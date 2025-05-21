@@ -74,8 +74,8 @@ Room W - Workspace Room
 | Room A | How to do agile, goverance and get stuff done |
 | Room B | Being more T shaped, whilst teams & budgets strink |
 | Room C | How to delivery manager a cyber attack |
-| Room D | Manage developers and live services |
-| Room E | How to enable transfers between departments |
+| Room D | Managing developers and live services |
+| Room E | How to enable more transfers between departments |
 | Room 1 | Overflow Room |
 | Room 2 | Overflow Room |
 | Room 3 | Overflow Room |
