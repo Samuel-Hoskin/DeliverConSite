@@ -5,10 +5,10 @@ order: 5
 title: Welcome
 description: We're the biannual unconference for delivery managers in and around the public sector. We come together as a community to develop our profession and improve public services.
 startButton:
-  href: "https://forms.office.com/e/Bn2xsFx9Bd"
-  text: Give your feedback on DeliverCon 2025
+  href: "https://lu.ma/00i0ebgc?utm_source=DeliverConSite"
+  text: Get your DeliverCon 2025.2 Ticket
 image:
-  src: /assets/images/DeliverCon25.svg
+  src: /assets/images/DeliverCon-Default.svg
   alt: DeliverCon 2025 event sticker
 aside:
   title: "Check out:"
@@ -16,21 +16,21 @@ aside:
     [Past Events](../../events)
     
 ---
-## DeliverCon 2025
+## DeliverCon 2025.2
 
-Thank you to all that attended DeliverCon 2025! Make sure to give your feedback using the button above and share any photos or notes you made using the links below.
+DeliverCon is a gathering for delivery managers in and around the public sector. We follow an unconference format, where the agenda for the day is set on the day by the people that are in the room.
 
-📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/PdjmjK8rx73WtztJA)
+We had such a fantastic time in York in May and the good news is we don't have long to wait until the next DeliverCon!
 
-📚 Notes (Written) - [Google Drive](https://drive.google.com/drive/folders/1GnNSPEB61MPfW7J8cYcwInh9f-xRWqgz?usp=sharing)
+This time we’ll be in Stratford, London on Friday 10th October 2025, 9.30am – 4.30pm
 
-📷 Pictures from the day - [Google Photo Album](https://photos.app.goo.gl/JULz7HW5XPkMYpZd7)
+Tickets will be going live at 11am on Tuesday 2nd September at the link below, and as always this event is completely FREE!
 
-For more details on what was discussed, check out the [2025 Event Page](../../events/DeliverCon2025/)
+Tickets always go quick so make sure you set a reminder! Please also share this with any colleagues you think will be interested – we love to see new faces each time
 
 
-## Future Events
+## Past Events
 
-We are planing to return in Autumn 2025, likely in London. 
+For more details on previous DeliverCon's, check out the [Event Pages](../../events)
 
 To find out the latest, follow us on [LinkedIn](https://www.linkedin.com/company/delivercon) and subscribe to our [event calander / mailing list](https://lu.ma/DeliverCon).
