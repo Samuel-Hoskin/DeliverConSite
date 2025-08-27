@@ -47,6 +47,10 @@ module.exports = function(eleventyConfig) {
                   text: "What is an Unconference?"
                 },
                 {
+                  href: "/facilitation",
+                  text: "Facilitation Guide"
+                },
+                {
                   href: "/code-of-conduct",
                   text: "Code of Conduct"
                 },
