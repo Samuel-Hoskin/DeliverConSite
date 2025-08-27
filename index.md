@@ -8,8 +8,8 @@ startButton:
   href: "https://lu.ma/00i0ebgc?utm_source=DeliverConSite"
   text: Get your DeliverCon 2025.2 Ticket
 image:
-  src: /assets/images/DeliverCon-Default.svg
-  alt: DeliverCon 2025 event sticker
+  src: /assets/images/DeliverCon-Default-Sticker.svg
+  alt: DeliverCon  event sticker
 aside:
   title: "Check out:"
   content: | 
