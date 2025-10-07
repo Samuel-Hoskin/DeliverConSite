@@ -26,11 +26,11 @@ DeliverCon is a gathering for delivery managers in and around the public sector.
 
 🚇 Nearest Tube Station - Stratford (Zone 2/3) roughtly a 5 mintue walk
 
-​📅 Wednesday 21st May 2025
+​📅 Wednesday 10th September 2025
 
 🕘 09:30 - Doors Open
-  10:00 - Event Starts
-  16:30 - Event Finish
+🕘 10:00 - Event Starts
+🕘 16:30 - Event Finish
 
 📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/9wV2mGyjCJ22tNwJ7)
 
