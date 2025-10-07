@@ -5,11 +5,11 @@ order: 5
 title: Welcome
 description: We're the biannual unconference for delivery managers in and around the public sector. We come together as a community to develop our profession and improve public services.
 startButton:
-  href: "https://lu.ma/00i0ebgc?utm_source=DeliverConSite"
-  text: Get your DeliverCon 2025.2 Ticket
+  href: "https://deliverconpitching.streamlit.app/"
+  text: Sumbmit your session pitch
 image:
   src: /assets/images/DeliverCon-Default-Sticker.svg
-  alt: DeliverCon  event sticker
+  alt: DeliverCon event sticker
 aside:
   title: "Check out:"
   content: | 
