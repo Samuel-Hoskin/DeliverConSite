@@ -20,13 +20,74 @@ aside:
 
 DeliverCon is a gathering for delivery managers in and around the public sector. We follow an unconference format, where the agenda for the day is set on the day by the people that are in the room.
 
-We had such a fantastic time in York in May and the good news is we don't have long to wait until the next DeliverCon!
+## Key Details
 
-This time we’ll be in Stratford, London on Friday 10th October 2025, 9.30am – 4.30pm
+​📌 HM Government, 14 Westfield Ave, London, E20 1HZ
 
-Tickets will be going live at 11am on Tuesday 2nd September at the link below, and as always this event is completely FREE!
+🚇 Nearest Tube Station - Stratford (Zone 2/3) roughtly a 5 mintue walk
 
-Tickets always go quick so make sure you set a reminder! Please also share this with any colleagues you think will be interested – we love to see new faces each time
+​📅 Wednesday 21st May 2025
+
+🕘 09:30 - Doors Open
+  10:00 - Event Starts
+  16:30 - Event Finish
+
+📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/9wV2mGyjCJ22tNwJ7)
+
+📚 Notes (Written) - [Google Drive](https://drive.google.com/drive/folders/1xNVcUDXIWCgkL6rPnXAPZ2V0Bf57_eAZ?usp=sharing)
+
+📷 Pictures from the day - [Google Photo Album](https://photos.app.goo.gl/Cu2GUVS8Zv46B21v6)
+
+## Agenda
+
+*Subject to change*
+
+### Session 1 - 11:00 to 11:45
+
+| Room | Title | Description |
+| ----------- | ----------- | ----------- |
+| A | *TBD* | *To be determined* |
+| B | *TBD* | *To be determined* |
+| C | *TBD* | *To be determined* |
+| D | *TBD* | *To be determined* |
+| E | *TBD* | *To be determined* |
+
+### Session 2 - 12:10 to 12:55
+
+| Room | Title | Description |
+| ----------- | ----------- | ----------- |
+| A | *TBD* | *To be determined* |
+| B | *TBD* | *To be determined* |
+| C | *TBD* | *To be determined* |
+| D | *TBD* | *To be determined* |
+| E | *TBD* | *To be determined* |
+
+### Lunch - 13:00 to 14:00
+
+Lunch is not provided, so please bring your own food for the day. There are various food outlets within 5 mintues of the venue.
+
+Please ensure you are back on time for 14:00
+
+### Session 3 - 14:00 to 14:45
+
+| Room | Title | Description |
+| ----------- | ----------- | ----------- |
+| A | *TBD* | *To be determined* |
+| B | *TBD* | *To be determined* |
+| C | *TBD* | *To be determined* |
+| D | *TBD* | *To be determined* |
+| E | *TBD* | *To be determined* |
+
+### Session 4 - 15:00 to 15:45
+
+| Room | Title | Description |
+| ----------- | ----------- | ----------- |
+| A | *TBD* | *To be determined* |
+| B | *TBD* | *To be determined* |
+| C | *TBD* | *To be determined* |
+| D | *TBD* | *To be determined* |
+| E | *TBD* | *To be determined* |
+
 
 
 ## Past Events
