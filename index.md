@@ -6,7 +6,7 @@ title: Welcome
 description: We're the biannual unconference for delivery managers in and around the public sector. We come together as a community to develop our profession and improve public services.
 startButton:
   href: "https://deliverconpitching.streamlit.app/"
-  text: Sumbmit your session pitch
+  text: Submit your session pitch
 image:
   src: /assets/images/DeliverCon-Default-Sticker.svg
   alt: DeliverCon event sticker
