@@ -58,9 +58,7 @@ DeliverCon is a gathering for delivery managers in and around the public sector.
 | ----------- | ----------- | ----------- |
 | A | Balancing value for money with user needs | How do you balance fairy between supporting a new alpha work stream that can cost as much as 250k fo... |
 | B | What is the career progression pathway for a Delivery Manager? | Should it be to Lead Delivery Manager? Programme Delivery Manager? Head of Delivery? Agile Coach? Se... |
-| C | What 's the best way to train a whole cohort of waterfall Project Managers to become Delivery Managers? | Bearing in mind 
-- Reluctance/suspicion from some in the cohort 
-- Lack of understanding of agile wa... |
+| C | What 's the best way to train a whole cohort of waterfall Project Managers to become Delivery Managers? | Bearing in mind: Reluctance/suspicion from some in the cohort  and Lack of understanding of agile wa... |
 | D | Delivery and Capability Metrics, what works for you | As a Kanban expert I have views about capability metrics, but I want to hear from others what has wo... |
 | E | How do we deliver faster while developing civil servants? | The civil service is very good at upskilling people, career development, learning opportunities and ... |
 
