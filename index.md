@@ -44,13 +44,16 @@ DeliverCon is a gathering for delivery managers in and around the public sector.
 
 ### Session 1 - 11:00 to 11:45
 
+### Session 1 - 11:00 to 11:45
+
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | *TBD* | *To be determined* |
-| B | *TBD* | *To be determined* |
-| C | *TBD* | *To be determined* |
-| D | *TBD* | *To be determined* |
-| E | *TBD* | *To be determined* |
+| A | The Policy Whirlwind vs. Digital Wisdom: Finding the Right Priorities | In the public sector and government and digital delivery we often have competing and moving prioriti... |
+| B | Behind every process is a person - adventure stories from the governance wilderness | Do you ever get frustrated trying to get through seemingly endless governance hurdles? Come here to ... |
+| C | Making goals a part of each iteration - how does your team know youre making progress? | What are the things you're doing that help the team to know they are delivering value and making pro... |
+| D | Changing team culture over the long term - how do you celebrate progress and keep talking about it? | What are the practices and techniques you are using to help the team to build momentum when it comes... |
+| E | AI - a delivery managers friend or foe….. | With AI being touted as the golden bullet to Government efficiency and productivity is this a burden... |
+
 
 ### Session 2 - 12:10 to 12:55
 
