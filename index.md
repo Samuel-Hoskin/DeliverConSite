@@ -83,7 +83,7 @@ Please ensure you are back on time for 14:00
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | How to balance servant leadership with assertive coaching? | How to research, build and develop rapidly? Are the conventional disco - alpha - beta still appropriate in this more fast paced world of delivery. |
+| A | How to balance servant leadership with assertive coaching? | Often we are seen as the teams role model of servant leadership, fostering a safe environment for the team to deliver. But what about when the team (or that team member) needs a "stronger" push towards performance and team collaboration? How do we balance our roles between delivery and coaching? Or is there any difference between the two? Thoughts?! |
 | B | Navigating a complex  stakeholder terrain | How we work successfully in a complex stakeholder setting where everyone has a stake in the delivery |
 | C | Help and support | Is there a delivery managers playbook we can use to support teams, with tools and ideas and process timelines |
 | D | Agile transformation in non-agile areas | How do we transform the masses of an area with a mix of those steeped in agile and those who aren’t. |
