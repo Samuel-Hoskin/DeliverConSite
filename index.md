@@ -75,21 +75,23 @@ Please ensure you are back on time for 14:00
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | *TBD* | *To be determined* |
-| B | *TBD* | *To be determined* |
-| C | *TBD* | *To be determined* |
-| D | *TBD* | *To be determined* |
-| E | *TBD* | *To be determined* |
+| A | Lighting Talks 1 | Lighting Talks 1 |
+| B | Skunkworks/Lean Agile in GOV | How to research, build and develop rapidly? Are the conventional disco - alpha - beta still appropri... |
+| C | Mapping responsibilities across a Delivery Team | I’d love to discuss how do we map all the responsibilities of a delivery team - both holistically an... |
+| D | How quickly can you deliver a new service | Being agile involves delivering quickly and iteratively. But how quick is quick for a new service? |
+| E | Don’t forget the service! | So you’ve designed a great new product, fab!
+Next step, getting it to production and keeping it runn... |
 
 ### Session 4 - 15:00 to 15:45
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | *TBD* | *To be determined* |
-| B | *TBD* | *To be determined* |
-| C | *TBD* | *To be determined* |
-| D | *TBD* | *To be determined* |
-| E | *TBD* | *To be determined* |
+| A | How to balance servant leadership with assertive coaching? | Often we are seen as the teams role model of servant leadership, fostering a safe environment for th... |
+| B | Don’t forget the service! | So you’ve designed a great new product, fab!
+Next step, getting it to production and keeping it runn... |
+| C | Help and support | Is there a delivery managers playbook we can use to support teams, with tools and ideas and process ... |
+| D | Agile transformation in non-agile areas | How do we transform the masses of an area with a mix of those steeped in agile and those who aren’t. |
+| E | How do we avoid analysis paralysis? | How do you we get teams testing ideas quickly rather than spending lots of time researching |
 
 
 
