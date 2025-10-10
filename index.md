@@ -52,18 +52,20 @@ DeliverCon is a gathering for delivery managers in and around the public sector.
 | D | Changing team culture over the long term - how do you celebrate progress and keep talking about it? | What are the practices and techniques you are using to help the team to build momentum when it comes... |
 | E | AI - a delivery managers friend or foe….. | With AI being touted as the golden bullet to Government efficiency and productivity is this a burden... |
 
-
-### Session 2 - 12:10 to 12:55
+### Session 2 - 12:00 to 12:45
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | *TBD* | *To be determined* |
-| B | *TBD* | *To be determined* |
-| C | *TBD* | *To be determined* |
-| D | *TBD* | *To be determined* |
-| E | *TBD* | *To be determined* |
+| A | Balancing value for money with user needs | How do you balance fairy between supporting a new alpha work stream that can cost as much as 250k fo... |
+| B | What is the career progression pathway for a Delivery Manager? | Should it be to Lead Delivery Manager? Programme Delivery Manager? Head of Delivery? Agile Coach? Se... |
+| C | What 's the best way to train a whole cohort of waterfall Project Managers to become Delivery Managers? | Bearing in mind 
+- Reluctance/suspicion from some in the cohort 
+- Lack of understanding of agile wa... |
+| D | Delivery and Capability Metrics, what works for you | As a Kanban expert I have views about capability metrics, but I want to hear from others what has wo... |
+| E | How do we deliver faster while developing civil servants? | The civil service is very good at upskilling people, career development, learning opportunities and ... |
 
-### Lunch - 13:00 to 14:00
+
+### Lunch - 12:55 to 13:45
 
 Lunch is not provided, so please bring your own food for the day. There are various food outlets within 5 mintues of the venue.
 
