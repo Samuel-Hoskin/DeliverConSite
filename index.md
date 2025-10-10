@@ -46,11 +46,13 @@ DeliverCon is a gathering for delivery managers in and around the public sector.
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | The Policy Whirlwind vs. Digital Wisdom: Finding the Right Priorities | In the public sector and government and digital delivery we often have competing and moving prioriti... |
-| B | Behind every process is a person - adventure stories from the governance wilderness | Do you ever get frustrated trying to get through seemingly endless governance hurdles? Come here to ... |
-| C | Making goals a part of each iteration - how does your team know youre making progress? | What are the things you're doing that help the team to know they are delivering value and making pro... |
-| D | Changing team culture over the long term - how do you celebrate progress and keep talking about it? | What are the practices and techniques you are using to help the team to build momentum when it comes... |
-| E | AI - a delivery managers friend or foe….. | With AI being touted as the golden bullet to Government efficiency and productivity is this a burden... |
+| A | The Policy Whirlwind vs. Digital Wisdom: Finding the Right Priorities | In the public sector and government and digital delivery we often have competing and moving priorities that come at us rapidly due to ministerial demand or policy. At the same time we have digital innovation, improvements and technical debt on products and services which are required to keep our products and services efficient, secure, and useful to our citizens. Often the digital needs for creating more efficient, secure, and quality services and products becomes overruled by the ministerial/policy need, or even . How can we prioritise and allocate work appropriately in this environment to allow for digital improvements and innovation whilst ensuring fast efficient delivery of policies? |
+| B | Behind every process is a person - adventure stories from the governance wilderness | Do you ever get frustrated trying to get through seemingly endless governance hurdles? Come here to share and listen to stories of how to make the system work for you, starting by treating process owners like reasonable, flexible people.|
+| C | Making goals a part of each iteration - how does your team know youre making progress? | What are the things you're doing that help the team to know they are delivering value and making progress?
+
+Once you've defined your team goals (in whatever flavour you like!), how do you make them real each iteration to teams and stakeholders? |
+| D | Changing team culture over the long term - how do you celebrate progress and keep talking about it? | What are the practices and techniques you are using to help the team to build momentum when it comes to culture change? How do you plan for this as a delivery person, and build people's confidence and energy for this?|
+| E | AI - a delivery managers friend or foe….. | With AI being touted as the golden bullet to Government efficiency and productivity is this a burden for delivery managers or a friend that can help us deliver  value, faster and better ? |
 
 ### Session 2 - 12:00 to 12:45
 
