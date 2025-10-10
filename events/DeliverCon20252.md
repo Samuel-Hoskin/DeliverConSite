@@ -4,7 +4,7 @@ order: 1
 title: DeliverCon2025.2
 description: DeliverCon2025 took take place on the 10st October 2025 in Stratford.
 date: 2025-10-10
-modified: 2025-10-100
+modified: 2025-10-10
 image: 
   src: /assets/images/DeliverCon20252.jpeg
   alt: Crowd of people attending DeliverCon2025.2
