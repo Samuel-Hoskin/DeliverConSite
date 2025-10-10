@@ -86,10 +86,9 @@ Next step, getting it to production and keeping it runn... |
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | How to balance servant leadership with assertive coaching? | Often we are seen as the teams role model of servant leadership, fostering a safe environment for th... |
-| B | Don’t forget the service! | So you’ve designed a great new product, fab!
-Next step, getting it to production and keeping it runn... |
-| C | Help and support | Is there a delivery managers playbook we can use to support teams, with tools and ideas and process ... |
+| A | How to balance servant leadership with assertive coaching? | How to research, build and develop rapidly? Are the conventional disco - alpha - beta still appropriate in this more fast paced world of delivery. |
+| B | Don’t forget the service! | So you’ve designed a great new product, fab! Next step, getting it to production and keeping it running at scale.We often forget scaling and service, how do we make sure this isn’t forgotten like a lost sad mitten? |
+| C | Help and support | Is there a delivery managers playbook we can use to support teams, with tools and ideas and process timelines |
 | D | Agile transformation in non-agile areas | How do we transform the masses of an area with a mix of those steeped in agile and those who aren’t. |
 | E | How do we avoid analysis paralysis? | How do you we get teams testing ideas quickly rather than spending lots of time researching |
 
