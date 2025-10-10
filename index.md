@@ -44,8 +44,6 @@ DeliverCon is a gathering for delivery managers in and around the public sector.
 
 ### Session 1 - 11:00 to 11:45
 
-### Session 1 - 11:00 to 11:45
-
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
 | A | The Policy Whirlwind vs. Digital Wisdom: Finding the Right Priorities | In the public sector and government and digital delivery we often have competing and moving prioriti... |
