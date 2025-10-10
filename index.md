@@ -58,11 +58,11 @@ Once you've defined your team goals (in whatever flavour you like!), how do you 
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | Balancing value for money with user needs | How do you balance fairy between supporting a new alpha work stream that can cost as much as 250k fo... |
-| B | What is the career progression pathway for a Delivery Manager? | Should it be to Lead Delivery Manager? Programme Delivery Manager? Head of Delivery? Agile Coach? Se... |
-| C | What 's the best way to train a whole cohort of waterfall Project Managers to become Delivery Managers? | Bearing in mind: Reluctance/suspicion from some in the cohort  and Lack of understanding of agile wa... |
-| D | Delivery and Capability Metrics, what works for you | As a Kanban expert I have views about capability metrics, but I want to hear from others what has wo... |
-| E | How do we deliver faster while developing civil servants? | The civil service is very good at upskilling people, career development, learning opportunities and ... |
+| A | Balancing value for money with user needs | How do you balance fairy between supporting a new alpha work stream that can cost as much as 250k for user research with a group that represents 0.01% of potential service users VS investing in research to help improve other pain points in the journey used by 99.99% of users? |
+| B | What is the career progression pathway for a Delivery Manager? | Should it be to Lead Delivery Manager? Programme Delivery Manager? Head of Delivery? Agile Coach? Service Owner? What do these different roles do? Will aim to facilitate this session with cross-departmental breakout groups. |
+| C | What 's the best way to train a whole cohort of waterfall Project Managers to become Delivery Managers? | Bearing in mind - Reluctance/suspicion from some in the cohort - Lack of understanding of agile ways of working - Limited resources (in terms of money, mentors, training etc.) |
+| D | Delivery and Capability Metrics, what works for you | As a Kanban expert I have views about capability metrics, but I want to hear from others what has worked for them, and importantly what hasn't and why. I am leading an initiative on this for LAA Digital, so want to steal everyone else's knowledge and work. |
+| E | How do we deliver faster while developing civil servants? | The civil service is very good at upskilling people, career development, learning opportunities and sideways moves. But how do we balance individuals needs with team outputs and departmental outcomes? |
 
 
 ### Lunch - 12:55 to 13:45
