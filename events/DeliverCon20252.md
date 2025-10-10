@@ -1,24 +1,19 @@
 ---
-homepage: true
-layout: product
-order: 5
-title: Welcome
-description: We're the biannual unconference for delivery managers in and around the public sector. We come together as a community to develop our profession and improve public services.
-startButton:
-  href: "https://forms.office.com/Pages/ResponsePage.aspx?id=UCQKdycCYkyQx044U38RAnZHRQQdA9JKno6ggQuqbAhUMkc0NTBMTUY1MkNHMkVRVDlaVjBEU0YwWi4u"
-  text: Submit your feedback
-image:
-  src: /assets/images/DeliverCon-Default-Sticker.svg
-  alt: DeliverCon event sticker
-aside:
-  title: "Check out:"
-  content: | 
-    [Past Events](../../events)
-    
----
-## DeliverCon 2025.2
+layout: post
+order: 1
+title: DeliverCon2025.2
+description: DeliverCon2025 took take place on the 10st October 2025 in Stratford.
+date: 2025-10-10
+modified: 2025-10-100
+image: 
+  src: /assets/images/DeliverCon20252.jpeg
+  alt: Crowd of people attending DeliverCon2025.2
+author:
+   name: Samuel Hoskin
+tags: event
 
-DeliverCon is a gathering for delivery managers in and around the public sector. We follow an unconference format, where the agenda for the day is set on the day by the people that are in the room.
+
+---
 
 ## Key Details
 
@@ -27,10 +22,6 @@ DeliverCon is a gathering for delivery managers in and around the public sector.
 🚇 Nearest Tube Station - Stratford (Zone 2/3) roughtly a 5 mintue walk
 
 ​📅 Friday 10th September 2025
-
-🕘 09:30 - Doors Open
-🕘 10:00 - Event Starts
-🕘 16:30 - Event Finish
 
 📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/9wV2mGyjCJ22tNwJ7)
 
@@ -60,13 +51,6 @@ DeliverCon is a gathering for delivery managers in and around the public sector.
 | D | Delivery and Capability Metrics, what works for you | As a Kanban expert I have views about capability metrics, but I want to hear from others what has worked for them, and importantly what hasn't and why. I am leading an initiative on this for LAA Digital, so want to steal everyone else's knowledge and work. |
 | E | How do we deliver faster while developing civil servants? | The civil service is very good at upskilling people, career development, learning opportunities and sideways moves. But how do we balance individuals needs with team outputs and departmental outcomes? |
 
-
-### Lunch - 12:55 to 13:45
-
-Lunch is not provided, so please bring your own food for the day. There are various food outlets within 5 mintues of the venue.
-
-Please ensure you are back on time for 14:00
-
 ### Session 3 - 14:00 to 14:45
 
 | Room | Title | Description |
@@ -86,9 +70,3 @@ Please ensure you are back on time for 14:00
 | C | Help and support | Is there a delivery managers playbook we can use to support teams, with tools and ideas and process timelines |
 | D | Agile transformation in non-agile areas | How do we transform the masses of an area with a mix of those steeped in agile and those who aren’t. |
 | E | How do we avoid analysis paralysis? | How do you we get teams testing ideas quickly rather than spending lots of time researching |
-
-## Past Events
-
-For more details on previous DeliverCon's, check out the [Event Pages](../../events)
-
-To find out the latest, follow us on [LinkedIn](https://www.linkedin.com/company/delivercon) and subscribe to our [event calander / mailing list](https://lu.ma/DeliverCon).
