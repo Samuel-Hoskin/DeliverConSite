@@ -79,14 +79,14 @@ Please ensure you are back on time for 14:00
 | B | Skunkworks/Lean Agile in GOV | How to research, build and develop rapidly? Are the conventional disco - alpha - beta still appropriate in this more fast paced world of delivery. |
 | C | Mapping responsibilities across a Delivery Team | I’d love to discuss how do we map all the responsibilities of a delivery team - both holistically and as individuals. How can we ensure we have fair workloads and adequate cover for our roles during holidays etc |
 | D | How quickly can you deliver a new service | Being agile involves delivering quickly and iteratively. But how quick is quick for a new service? |
-| E | Don’t forget the service! | So you’ve designed a great new product, fab!Next step, getting it to production and keeping it running at scale.We often forget scaling and service, how do we make sure this isn’t forgotten like a lost sad mitten? |
+| E | Don’t forget the service! | So you’ve designed a great new product, fab! Next step, getting it to production and keeping it running at scale. We often forget scaling and service, how do we make sure this isn’t forgotten like a lost sad mitten? |
 
 ### Session 4 - 15:00 to 15:45
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
 | A | How to balance servant leadership with assertive coaching? | How to research, build and develop rapidly? Are the conventional disco - alpha - beta still appropriate in this more fast paced world of delivery. |
-| B | Don’t forget the service! | So you’ve designed a great new product, fab! Next step, getting it to production and keeping it running at scale.We often forget scaling and service, how do we make sure this isn’t forgotten like a lost sad mitten? |
+| B | Navigating a complex  stakeholder terrain | How we work successfully in a complex stakeholder setting where everyone has a stake in the delivery |
 | C | Help and support | Is there a delivery managers playbook we can use to support teams, with tools and ideas and process timelines |
 | D | Agile transformation in non-agile areas | How do we transform the masses of an area with a mix of those steeped in agile and those who aren’t. |
 | E | How do we avoid analysis paralysis? | How do you we get teams testing ideas quickly rather than spending lots of time researching |
