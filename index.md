@@ -73,7 +73,7 @@ Please ensure you are back on time for 14:00
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | Lighting Talks 1 | Lighting Talks 1 |
+| A | Lighting Talks  | Lighting Talks  |
 | B | Skunkworks/Lean Agile in GOV | How to research, build and develop rapidly? Are the conventional disco - alpha - beta still appropriate in this more fast paced world of delivery. |
 | C | Mapping responsibilities across a Delivery Team | I’d love to discuss how do we map all the responsibilities of a delivery team - both holistically and as individuals. How can we ensure we have fair workloads and adequate cover for our roles during holidays etc |
 | D | How quickly can you deliver a new service | Being agile involves delivering quickly and iteratively. But how quick is quick for a new service? |
