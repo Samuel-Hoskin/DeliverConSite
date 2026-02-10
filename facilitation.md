@@ -5,7 +5,9 @@ title:  Facilitation
 description: How to facilitate a good DeliverCon Session
 ---
 
-Thank you for facilitating a session at DeliverCon: YOU ARE AWESOME 👏
+If you are reading this, it safe to assume you are facilitating a session at DeliverCon, let us start with saying: 
+
+YOU ARE AWESOME 👏
 
 You have offered to help others have a good session and that’s really appreciated.
 
@@ -30,7 +32,9 @@ Ask the group if the person who pitched can explain the pitch and start the disc
 
 If that person is not there, ask the group if someone would like to share what about the pitch made them attend this session.
 ### Involving everyone
-You may find that a few people dominate the conversation or that the conversation goes quiet. You could try:
+You may find that a few people dominate the conversation or that the conversation goes quiet.
+
+You could try:
 - “Would anyone else like to share?” (if things stall and silence doesn’t work)
 - “Does anyone who has not spoken have something to say?” (To help others participate)
 
@@ -42,8 +46,11 @@ Maybe your group suggests they want to raise their hands to talk, or maybe they 
 If you have a larger group you might want to suggest breaking them into smaller groups to discuss and then leave time at the end for each group to feedback and reflect on what they and others discussed.
 
 ### Stuck on the topic
-If a group is really stuck then you might suggest they look at the discussion as an anti-problem. Sometimes understanding what bad or negative looks likehelps a positive conversation emerge.EG:
-- “Instead of looking for improvements, how could our community make this really bad?" Followed up with
+If a group is really stuck then you might suggest they look at the discussion as an anti-problem. Sometimes understanding what bad or negative looks likehelps a positive conversation emerge.
+For example:
+- “Instead of looking for improvements, how could our community make this really bad?"
+
+Followed up with
 - “OK we now have several bad things, that we don’t want - are things currently like that? How could we improve?”
 
 Most importantly: Don’t feel you have to fill every gap in the conversation
