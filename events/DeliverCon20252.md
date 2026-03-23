@@ -6,7 +6,7 @@ description: DeliverCon2025 took take place on the 10st October 2025 in Stratfor
 date: 2025-10-10
 modified: 2025-10-10
 image: 
-  src: /assets/images/DeliverCon20252.jpeg
+  src: /assets/images/DeliverCon20252.jpg
   alt: Crowd of people attending DeliverCon2025.2
 author:
    name: Samuel Hoskin
