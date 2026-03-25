@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     fontFamily: "Arial",
     header: {
-        organisationName: 'Cross Gov Delivery Community',
+        organisationName: 'DeliverCon',
         organisationLogo: false,
         navigation: [
             {
@@ -43,8 +43,12 @@ module.exports = function(eleventyConfig) {
         meta:{
             items: [
                 {
-                  href: "/privacypolicy",
-                  text: "Privacy Policy"
+                  href: "/unconference",
+                  text: "What is an Unconference?"
+                },
+                {
+                  href: "/facilitation",
+                  text: "Facilitation Guide"
                 },
                 {
                   href: "/code-of-conduct",
@@ -62,6 +66,16 @@ module.exports = function(eleventyConfig) {
     },
   })
   eleventyConfig.addPassthroughCopy("assets");
+
+  eleventyConfig.addTransform("injectAnalyticsScript", (content, outputPath) => {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return content.replace(
+        "</head>",
+        `<script defer src="https://analytics.hoskin.dev/script.js" data-website-id="271420fa-f401-45c2-93b4-e5b7cd7d6aef"></script></head>`
+      );
+    }
+    return content;
+  });
   
   return {
     dataTemplateEngine: 'njk',
