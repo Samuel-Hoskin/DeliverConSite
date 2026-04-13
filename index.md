@@ -6,7 +6,7 @@ title: Welcome
 description: We're the biannual unconference for delivery managers in and around the public sector. We come together as a community to develop our profession and improve public services.
 startButton:
   href: "https://luma.com/2hs2o2qt?utm_source=Website"
-  text: Tickets Live @ 10:30 on April 13th
+  text: Tickets Live @ 11:00 on April 13th
 image:
   src: /assets/images/DeliverCon-Default-Sticker.svg
   alt: DeliverCon event sticker
