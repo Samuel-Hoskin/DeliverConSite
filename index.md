@@ -19,15 +19,79 @@ aside:
     [Code of Conduct](/code-of-conduct)
     
 ---
-DeliverCon is a gathering for delivery managers in and around the public sector. We follow an unconference format, where the agenda for the day is set on the day by the people that are in the room.
+
 
 ## DeliverCon 2026
 
+DeliverCon is a gathering for delivery managers in and around the public sector. We follow an unconference format, where the agenda for the day is set on the day by the people that are in the room.
 DeliverCon is back for it's 10th intstallment
 
-📆 Date: Friday 22nd May 2026 
-📍 Location: York
-🎟️ Ticket: Go live at 10:30am on Monday 13th April 2026
+## Key Details
+
+​📌 Defra, Foss House, Kings Pool, 1-2 Peasholme Green, York, YO1 7PX
+
+​📅 Friday 22nd May 2026
+
+🕘 09:30 - Doors Open
+🕘 10:00 - Event Starts
+🕘 16:30 - Event Finish
+
+📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/1w9YHeeE8A3VAdYz8)
+
+📚 Notes (Written) - [Google Drive]()
+
+📷 Photos from the day - [Google Photo Album](https://photos.app.goo.gl/fkmtGoM2VPHDmpPu5)
+
+## Agenda
+
+*Subject to change*
+
+### Session 1 - 11:00 to 11:45
+
+| Room | Title | Description |
+| ----------- | ----------- | ----------- |
+| A | *TBD* | *To be determined* |
+| B | *TBD* | *To be determined* |
+| C | *TBD* | *To be determined* |
+| D | *TBD* | *To be determined* |
+| E | *TBD* | *To be determined* |
+
+### Session 2 - 12:10 to 12:55
+
+| Room | Title | Description |
+| ----------- | ----------- | ----------- |
+| A | *TBD* | *To be determined* |
+| B | *TBD* | *To be determined* |
+| C | *TBD* | *To be determined* |
+| D | *TBD* | *To be determined* |
+| E | *TBD* | *To be determined* |
+
+### Lunch - 13:00 to 14:00
+
+Lunch is not provided, so please bring your own food for the day. There are various food outlets within 10 mintues of the venue.
+
+Please ensure you are back on time for 14:00
+
+### Session 3 - 14:00 to 14:45
+
+| Room | Title | Description |
+| ----------- | ----------- | ----------- |
+| A | *TBD* | *To be determined* |
+| B | *TBD* | *To be determined* |
+| C | *TBD* | *To be determined* |
+| D | *TBD* | *To be determined* |
+| E | *TBD* | *To be determined* |
+
+### Session 4 - 15:00 to 15:45
+
+| Room | Title | Description |
+| ----------- | ----------- | ----------- |
+| A | *TBD* | *To be determined* |
+| B | *TBD* | *To be determined* |
+| C | *TBD* | *To be determined* |
+| D | *TBD* | *To be determined* |
+| E | *TBD* | *To be determined* |
+
 
 To find out the latest, follow us on [LinkedIn](https://www.linkedin.com/company/delivercon), [#deliverymgmt](https://ukgovernmentdigital.slack.com/archives/C07CMTQKC) on [x-gov slack](https://x-govuk.org/posts/how-to-use-cross-government-slack/) or subscribe to our [event calander / mailing list](https://lu.ma/DeliverCon).
 
