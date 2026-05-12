@@ -32,9 +32,9 @@ DeliverCon is back for it's 10th intstallment
 
 ​📅 Friday 22nd May 2026
 
-🕘 09:30 - Doors Open
-🕘 10:00 - Event Starts
-🕘 16:30 - Event Finish
+🚪 09:30 - Doors Open
+🎬 10:00 - Event Starts
+🏁 16:30 - Event Finish
 
 📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/1w9YHeeE8A3VAdYz8)
 
