@@ -47,6 +47,10 @@ module.exports = function(eleventyConfig) {
                   text: "What is an Unconference?"
                 },
                 {
+                  href: "/PitchGuidance",
+                  text: "Pitch Guidance"
+                },
+                {
                   href: "/facilitation",
                   text: "Facilitation Guide"
                 },
