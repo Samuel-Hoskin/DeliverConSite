@@ -27,4 +27,4 @@ The pitches that have done well previously have had a snappy and intriguing titl
 - A sales pitch
  
 
-If you need any inspiration, please take a look at popular pitches from [previous DeliverCons](https://delivercon.uk/events/).
+If you need any inspiration, please take a look at popular pitches from [previous DeliverCon](https://delivercon.uk/events/) events.
