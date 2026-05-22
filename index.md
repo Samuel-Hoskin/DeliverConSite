@@ -48,13 +48,13 @@ DeliverCon is back for it's 10th intstallment
 
 ### Session 1 - 11:00 to 11:45
 
-| Room | Title | Description |
-| ----------- | ----------- | ----------- |
-| A | *TBD* | *To be determined* |
-| B | *TBD* | *To be determined* |
-| C | *TBD* | *To be determined* |
-| D | *TBD* | *To be determined* |
-| E | *TBD* | *To be determined* |
+| Room | Title | 
+| ----------- | ----------- | 
+| A | How can we be agile when senior management are waterfall? |
+| B | Psycology of Delivery (Makeing Estimation / Forecasting work for you team) | 
+| C | How to foster goods conversation and guide your team to clear decisions?  | 
+| D | When the heirachy is the blocker what do you do? How would you handle it? | 
+| E | How to further enhance comms with stakeholders? | 
 
 ### Session 2 - 12:10 to 12:55
 
