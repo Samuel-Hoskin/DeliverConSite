@@ -84,13 +84,13 @@ Please ensure you are back on time for 14:00
 
 ### Session 4 - 15:00 to 15:45
 
-| Room | Title | Description |
-| ----------- | ----------- | ----------- |
-| A | *TBD* | *To be determined* |
-| B | *TBD* | *To be determined* |
-| C | *TBD* | *To be determined* |
-| D | *TBD* | *To be determined* |
-| E | *TBD* | *To be determined* |
+| Room | Title | 
+| ----------- | ----------- | 
+| A | What if you PM doesn't want or value their DM? | 
+| B | How do you improve how teams discuss + take accountability of risk? | 
+| C | How to support people who want to move into delivery roles from other areas of the business? | 
+| D | How to approach planning with no set deadlines or milestones, where project scope is unclear or changing | 
+| E | Breakdown siloed ways of working - move towards high performing multi disclipinary teams | 
 
 
 To find out the latest, follow us on [LinkedIn](https://www.linkedin.com/company/delivercon), [#deliverymgmt](https://ukgovernmentdigital.slack.com/archives/C07CMTQKC) on [x-gov slack](https://x-govuk.org/posts/how-to-use-cross-government-slack/) or subscribe to our [event calander / mailing list](https://lu.ma/DeliverCon).
