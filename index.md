@@ -60,11 +60,11 @@ DeliverCon is back for it's 10th intstallment
 
 | Room | Title | Description |
 | ----------- | ----------- | ----------- |
-| A | *TBD* | *To be determined* |
-| B | *TBD* | *To be determined* |
-| C | *TBD* | *To be determined* |
-| D | *TBD* | *To be determined* |
-| E | *TBD* | *To be determined* |
+| A | What has happend around DeliverCon? Births, Deaths, Marriages... Lets get to know each other| 
+| B | What career paths are there before and after Delivery Management? | 
+| C | How to make a change to your department? | 
+| D | How will AI change delivery? | 
+| E | How to build and interactive and engaging community of pratice where people contribute (and use camera's) | 
 
 ### Lunch - 13:00 to 14:00
 
