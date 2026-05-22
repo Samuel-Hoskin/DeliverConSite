@@ -58,8 +58,8 @@ DeliverCon is back for it's 10th intstallment
 
 ### Session 2 - 12:10 to 12:55
 
-| Room | Title | Description |
-| ----------- | ----------- | ----------- |
+| Room | Title | 
+| ----------- | ----------- | 
 | A | What has happend around DeliverCon? Births, Deaths, Marriages... Lets get to know each other| 
 | B | What career paths are there before and after Delivery Management? | 
 | C | How to make a change to your department? | 
@@ -74,13 +74,13 @@ Please ensure you are back on time for 14:00
 
 ### Session 3 - 14:00 to 14:45
 
-| Room | Title | Description |
-| ----------- | ----------- | ----------- |
-| A | *TBD* | *To be determined* |
-| B | *TBD* | *To be determined* |
-| C | *TBD* | *To be determined* |
-| D | *TBD* | *To be determined* |
-| E | *TBD* | *To be determined* |
+| Room | Title | 
+| ----------- | ----------- | 
+| A | How to best get outside teams to engage? | 
+| B | Do we need a new model without practices/professions - Now that everyone is T-Shaped? | 
+| C | Build a DM Workshop - What makes a DM Great | 
+| D | How do we meaningfully measure the impact of delivery leadership? | 
+| E | What is the impact of AI on recuitment? | 
 
 ### Session 4 - 15:00 to 15:45
 
