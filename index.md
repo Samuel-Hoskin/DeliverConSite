@@ -38,7 +38,7 @@ DeliverCon is back for it's 10th intstallment
 
 📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/1w9YHeeE8A3VAdYz8)
 
-📚 Notes (Written) - [Google Drive]()
+📚 Notes (Written) - [Google Drive](https://drive.google.com/drive/folders/1uhmz1R1NY_N4wlZF0Q8dDXOiU25d6Yxx?usp=sharing)
 
 📷 Photos from the day - [Google Photo Album](https://photos.app.goo.gl/fkmtGoM2VPHDmpPu5)
 
