@@ -1,10 +1,8 @@
 ---
-layout: page
-order: 1
+layout: layouts/unconference.njk
+nav: unconference
 title: What is an Unconference?
-description: What to expect from attending an unconfrence
----
-
+description: What to expect from attending an unconference
 ---
 
 An unconference is a participant-driven meeting that turns the traditional conference model on its head. Unlike conventional conferences with pre-planned schedules and designated speakers, unconferences embrace a more dynamic and collaborative approach to knowledge sharing.

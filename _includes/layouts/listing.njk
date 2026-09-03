@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+---
+<div class="dc-section dc-section--inset">
+  <div class="dc-section__inner">
+    {% if kicker %}<span class="dc-eyebrow-line" style="color:var(--accent)">{{ kicker }}</span>{% endif %}
+    <h1 style="margin:8px 0 0;font-family:var(--font-display);font-weight:700;font-size:clamp(30px,4vw,44px);letter-spacing:-0.02em;color:var(--text-heading)">{{ title }}</h1>
+    {% if description %}<p style="margin:10px 0 0;font-size:18px;line-height:1.5;max-width:70ch">{{ description }}</p>{% endif %}
+  </div>
+</div>
+<div class="dc-section">
+  <div class="dc-section__inner" style="display:flex;flex-direction:column;gap:14px;max-width:820px">
+    {% set body = content | trim %}
+    {% if body.length %}
+    <div class="dc-prose">{{ content | safe }}</div>
+    {% endif %}
+    {% for item in collections[listCollection] %}
+    <a class="dc-tile-link" href="{{ item.url }}">
+      {% if item.data.date %}<span class="dc-tile-link__kicker">{{ item.data.date | dcDate }}</span>{% endif %}
+      <span class="dc-tile-link__title">{{ item.data.title }}</span>
+      {% if item.data.description %}<span class="dc-tile-link__body">{{ item.data.description }}</span>{% endif %}
+    </a>
+    {% else %}
+    <p>Nothing here yet — check back soon.</p>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,56 @@
+{
+  "event": "DeliverCon 2026 — York",
+  "date": "Friday 22 May 2026",
+  "note": "Set at 10:40 by the room · subject to change",
+  "rooms": ["Room A", "Room B", "Room C", "Room D", "Room E"],
+  "slots": [
+    {
+      "id": "s1",
+      "time": "11:00–11:45",
+      "label": "SESSION 1",
+      "sessions": [
+        { "id": "s1a", "tag": "teams", "title": "How can we be agile when senior management are waterfall?" },
+        { "id": "s1b", "tag": "craft", "title": "Psychology of delivery: making estimation work for your team" },
+        { "id": "s1c", "tag": "craft", "title": "How to foster good conversation and guide your team to clear decisions" },
+        { "id": "s1d", "tag": "teams", "title": "When the hierarchy is the blocker, what do you do?" },
+        { "id": "s1e", "tag": "craft", "title": "How to further enhance comms with stakeholders" }
+      ]
+    },
+    {
+      "id": "s2",
+      "time": "12:10–12:55",
+      "label": "SESSION 2",
+      "sessions": [
+        { "id": "s2a", "tag": "teams", "title": "Births, deaths, marriages — let's get to know each other" },
+        { "id": "s2b", "tag": "career", "title": "What career paths are there before and after delivery management?" },
+        { "id": "s2c", "tag": "teams", "title": "How to make a change to your department" },
+        { "id": "s2d", "tag": "ai", "title": "How will AI change delivery?" },
+        { "id": "s2e", "tag": "teams", "title": "Building a community of practice people actually contribute to" }
+      ]
+    },
+    {
+      "id": "s3",
+      "time": "14:00–14:45",
+      "label": "SESSION 3",
+      "sessions": [
+        { "id": "s3a", "tag": "teams", "title": "How to best get outside teams to engage" },
+        { "id": "s3b", "tag": "career", "title": "Do we need a model without professions now everyone is T-shaped?" },
+        { "id": "s3c", "tag": "career", "title": "Build a DM workshop — what makes a DM great" },
+        { "id": "s3d", "tag": "craft", "title": "How do we meaningfully measure the impact of delivery leadership?" },
+        { "id": "s3e", "tag": "ai", "title": "What is the impact of AI on recruitment?" }
+      ]
+    },
+    {
+      "id": "s4",
+      "time": "15:00–15:45",
+      "label": "SESSION 4",
+      "sessions": [
+        { "id": "s4a", "tag": "teams", "title": "What if your PM doesn't want or value their DM?" },
+        { "id": "s4b", "tag": "teams", "title": "How do you improve how teams discuss and own risk?" },
+        { "id": "s4c", "tag": "career", "title": "Supporting people who want to move into delivery roles" },
+        { "id": "s4d", "tag": "craft", "title": "Planning with no deadlines, and scope that keeps changing" },
+        { "id": "s4e", "tag": "teams", "title": "Breaking down silos towards multidisciplinary teams" }
+      ]
+    }
+  ]
+}

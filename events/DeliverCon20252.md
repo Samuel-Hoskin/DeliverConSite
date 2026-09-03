@@ -1,8 +1,8 @@
 ---
-layout: post
-order: 1
-title: DeliverCon2025.2
-description: DeliverCon2025 took take place on the 10st October 2025 in Stratford.
+layout: layouts/prose.njk
+nav: events
+title: DeliverCon 2025.2 — Stratford
+description: DeliverCon2025.2 took place on the 10th October 2025 in Stratford.
 date: 2025-10-10
 modified: 2025-10-10
 image: 
@@ -21,7 +21,7 @@ tags: event
 
 🚇 Nearest Tube Station - Stratford (Zone 2/3) roughtly a 5 mintue walk
 
-​📅 Friday 10th September 2025
+​📅 Friday 10th October 2025
 
 📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/9wV2mGyjCJ22tNwJ7)
 

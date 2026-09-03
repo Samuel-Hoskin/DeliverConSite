@@ -1,7 +1,5 @@
 ---
-layout: post
-includeInBreadcrumbs: true
-order: 3
+layout: layouts/prose.njk
 title: Learning and Development List
 description: A list of helpful L&D for Delivery Managers to explore
 date: 2011-12-21

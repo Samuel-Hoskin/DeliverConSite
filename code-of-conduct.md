@@ -1,15 +1,14 @@
 ---
-layout: page
-order: 1
+layout: layouts/code-of-conduct.njk
+nav: conduct
 title: DeliverCon Code of Conduct
 description: Expected behavior from participants at DeliverCon events
 ---
 
- <!-- Our code of conduct is based on the one in use at [UK Gov Camp](https://www.ukgovcamp.com/code-of-conduct/). -->
+Our code of conduct is based on the one in use at [UK Gov Camp](https://www.ukgovcamp.com/code-of-conduct/).
 
 Need to report an incident? Contact the DeliverCon organisers at: [delivercon@gmail.com](mailto:delivercon@gmail.com) or call on at [07919 691980](tel:+447919691980)
 
----
 We (the organisers of DeliverCon) believe that our spaces (Physical and Online) should be free from harassment, bullying and hate. 
 
 We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, neurotype, physical appearance, age, race, ethnicity, nationality, socio-economic status, language, religion or any other characteristic. 

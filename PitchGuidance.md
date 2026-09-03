@@ -1,11 +1,7 @@
 ---
-layout: page
-order: 1
+layout: layouts/prose.njk
 title: Pitching Guidance
 description: What makes a good session pitch?
-
----
-
 ---
 
 DeliverCon follows an unconference format which means that rather than an agenda being set in advance, the people in the room on the day decide what they would like to focus on.

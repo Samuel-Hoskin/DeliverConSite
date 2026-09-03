@@ -1,0 +1,19 @@
+<nav class="dc-nav" id="dc-nav">
+  <a class="dc-nav__brand" href="/">
+    <img src="/assets/images/brand/rocket.png" alt="">
+    <span>DeliverCon</span>
+  </a>
+  <button type="button" class="dc-nav__toggle" id="dc-nav-toggle" aria-expanded="false" aria-controls="dc-nav-links">
+    Menu
+  </button>
+  <div class="dc-nav__links" id="dc-nav-links">
+    <a class="dc-nav__tab{% if nav == 'home' %} is-active{% endif %}" href="/">2026</a>
+    <a class="dc-nav__tab{% if nav == 'agenda' %} is-active{% endif %}" href="/agenda/">Agenda</a>
+    <a class="dc-nav__tab{% if nav == 'unconference' %} is-active{% endif %}" href="/unconference/">First time?</a>
+    <a class="dc-nav__tab{% if nav == 'events' %} is-active{% endif %}" href="/events/">Past events</a>
+    <a class="dc-nav__tab{% if nav == 'conduct' %} is-active{% endif %}" href="/code-of-conduct/">Conduct</a>
+    <a class="dc-nav__tab{% if nav == 'facilitation' %} is-active{% endif %}" href="/facilitation/">Facilitation</a>
+    <a class="dc-nav__tab{% if nav == 'support' %} is-active{% endif %}" href="/support/">Support us</a>
+  </div>
+  <a class="dc-btn dc-btn--primary dc-btn--small dc-nav__cta" href="mailto:info@delivercon.uk?subject=DeliverCon%202026%20ticket">Get a ticket</a>
+</nav>

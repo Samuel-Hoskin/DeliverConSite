@@ -1,8 +1,8 @@
 ---
-layout: post
-order: 1
-title: DeliverCon2023
-description: Layout for date-based content, such as blog posts or news items.
+layout: layouts/prose.njk
+nav: events
+title: DeliverCon 2023 — Birmingham
+description: DeliverCon2023 took place on the 22nd February 2023 in Birmingham.
 date: 2023-02-22
 modified: 2023-03-27
 image:

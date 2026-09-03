@@ -1,8 +1,8 @@
 ---
-layout: page
-order: 1
-title:  Facilitation 
-description: How to facilitate a good DeliverCon Session
+layout: layouts/facilitation.njk
+nav: facilitation
+title: Facilitation
+description: How to facilitate a good DeliverCon session
 ---
 
 If you are reading this, it safe to assume you are facilitating a session at DeliverCon, let us start with saying: 

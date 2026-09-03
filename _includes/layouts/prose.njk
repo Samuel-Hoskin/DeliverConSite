@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+---
+<div class="dc-section dc-section--inset">
+  <div class="dc-section__inner">
+    {% if kicker %}<span class="dc-eyebrow-line" style="color:var(--accent)">{{ kicker }}</span>{% endif %}
+    <h1 style="margin:8px 0 0;font-family:var(--font-display);font-weight:700;font-size:clamp(30px,4vw,44px);letter-spacing:-0.02em;color:var(--text-heading)">{{ title }}</h1>
+    {% if description %}<p style="margin:10px 0 0;font-size:18px;line-height:1.5;max-width:70ch">{{ description }}</p>{% endif %}
+  </div>
+</div>
+<div class="dc-section">
+  <div class="dc-section__inner dc-prose" style="max-width:820px">
+    {% if image and image.src %}
+    <p><img src="{{ image.src }}" alt="{{ image.alt or '' }}" style="border-radius:var(--radius-lg);border:2px solid var(--ink-900);box-shadow:var(--shadow-sticker)"></p>
+    {% if image.caption %}<p style="margin-top:-6px;font-family:var(--font-mono);font-size:13px;letter-spacing:.08em;color:var(--text-muted)">{{ image.caption }}</p>{% endif %}
+    {% endif %}
+    {{ content | safe }}
+  </div>
+</div>

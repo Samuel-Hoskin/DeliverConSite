@@ -1,7 +1,5 @@
 ---
-layout: post
-includeInBreadcrumbs: true
-order: 3
+layout: layouts/prose.njk
 title: Contribute a blog
 description: How to contribute a blog to the site.
 date: 2011-12-21
@@ -31,9 +29,7 @@ Name the file `[YourBlogTitle].md` with no spaces, then copy the below in to the
 ```markdown
 ---
 
-layout: post
-includeInBreadcrumbs: true
-order: 3
+layout: layouts/prose.njk
 title: [title of your blog]
 description: [Short description of your post]
 date: [Date you wrote/upload your post. YYYY-MM-DD format (Required)]

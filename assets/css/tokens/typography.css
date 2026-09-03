@@ -1,0 +1,31 @@
+:root{
+  --font-display:"Space Grotesk","Helvetica Neue",Arial,sans-serif;
+  --font-body:"Lexend","Helvetica Neue",Arial,sans-serif;
+  --font-mono:"Space Mono",ui-monospace,monospace;
+  --font-hand:"Caveat","Bradley Hand",cursive;
+
+  /* Slide scale (1280x720 canvas) */
+  --size-slide-hero:88px;
+  --size-slide-title:60px;
+  --size-slide-body:34px;
+  --size-slide-small:26px;
+
+  /* Screen / document scale */
+  --size-display:56px;
+  --size-h1:40px;
+  --size-h2:30px;
+  --size-h3:22px;
+  --size-body:18px;
+  --size-small:15px;
+  --size-label:13px;
+
+  --weight-regular:400;
+  --weight-medium:500;
+  --weight-bold:700;
+
+  --leading-tight:1.05;
+  --leading-snug:1.2;
+  --leading-body:1.5;
+  --tracking-tight:-0.02em;
+  --tracking-label:0.12em;
+}
