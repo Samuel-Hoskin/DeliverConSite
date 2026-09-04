@@ -26,21 +26,20 @@ description: Friday's session grid — twenty sessions across five rooms, set on
   <div class="dc-section__inner">
     <div class="dc-slot-head">
       <span></span>
-      {% for room in agenda.rooms %}<span>{{ room }}</span>{% endfor %}
+      {%- for room in agenda.rooms %}<span>{{ room }}</span>{%- endfor %}
     </div>
-
-    {% for slot in agenda.slots %}
+    {%- for slot in agenda.slots %}
     <div class="dc-slot">
       <span class="dc-slot__time">{{ slot.time | replace("–", "<br>") | safe }}</span>
-      {% for session in slot.sessions %}
+      {%- for session in slot.sessions %}
       <button type="button" class="dc-session" data-session-id="{{ session.id }}" data-tag="{{ session.tag }}" data-slot="{{ slot.label }}">
         <span class="dc-session__room">{{ agenda.rooms[loop.index0] }}</span>
         <span class="dc-session__meta" data-session-meta>{{ slot.label }}</span>
         <span class="dc-session__title">{{ session.title }}</span>
       </button>
-      {% endfor %}
+      {%- endfor %}
     </div>
-    {% if slot.id == "s2" %}
+    {%- if slot.id == "s2" %}
     <div class="dc-lunch-row">
       <span class="dc-slot__time">13:00<br>14:00</span>
       <span class="dc-lunch-row__body">
@@ -49,8 +48,8 @@ description: Friday's session grid — twenty sessions across five rooms, set on
         <span class="dc-lunch-row__note">Lightning talks ⚡️ in Room A from 13:20. Please be back for 14:00.</span>
       </span>
     </div>
-    {% endif %}
-    {% endfor %}
+    {%- endif %}
+    {%- endfor %}
   </div>
 </div>
 

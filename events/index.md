@@ -22,13 +22,12 @@ description: Ten events, one community — every session's notes, since 2018.
       </div>
       <a href="mailto:info@delivercon.uk?subject=DeliverCon%202026%20ticket" class="dc-btn dc-btn--primary dc-btn--small" style="margin-left:auto">Get a ticket</a>
     </div>
-
-    {% for event in collections.event %}
+    {%- for event in collections.event %}
     <div class="dc-past-row">
       <span class="dc-past-row__badge">
-        {% if event.fileSlug == "DeliverCon2025" %}<img src="/assets/images/brand/mission-patch-2025.png" alt="">
-        {% elif event.data.image %}<img src="{{ event.data.image.src }}" alt="">
-        {% else %}{{ event.data.date | dcDate }}{% endif %}
+        {%- if event.fileSlug == "DeliverCon2025" %}<img src="/assets/images/brand/mission-patch-2025.png" alt="">
+        {%- elif event.data.image %}<img src="{{ event.data.image.src }}" alt="">
+        {%- else %}{{ event.data.date | dcDate }}{%- endif %}
       </span>
       <div class="dc-past-row__meta">
         <span class="dc-past-row__title">{{ event.data.title }}</span>
@@ -39,6 +38,6 @@ description: Ten events, one community — every session's notes, since 2018.
         <a href="{{ event.url }}" class="dc-btn dc-btn--outline dc-btn--small">Notes</a>
       </span>
     </div>
-    {% endfor %}
+    {%- endfor %}
   </div>
 </div>
