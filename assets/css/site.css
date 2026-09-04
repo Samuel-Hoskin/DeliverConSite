@@ -8,7 +8,16 @@ html { color-scheme: dark; }
 
 body {
   margin: 0;
-  background: var(--space-900);
+  /* --surface-space's blooms are tuned to sit near the top/bottom of a
+     roughly one-screen-tall box (that's what it was designed as a hero
+     background for) — on a page many screens long they'd all but vanish
+     if stretched over the full document. Tiling one screen-tall copy
+     down the page instead keeps the ombre present the whole way down,
+     and recalculates on any viewport resize since it's sized in vh. */
+  background-color: var(--space-900);
+  background-image: var(--surface-space);
+  background-repeat: repeat-y;
+  background-size: 100% 100vh;
   color: var(--text-body);
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
@@ -172,12 +181,14 @@ a:focus-visible {
   .dc-nav__cta { margin-left: 0; }
 }
 
-/* ---------- Hero / space background ---------- */
+/* ---------- Hero / space background ----------
+   No background of its own: the body paints one continuous nebula behind
+   the whole page (see body, above), so these sections stay transparent
+   and just host the starfield and its own stacking context. */
 
 .dc-space {
   position: relative;
   overflow: hidden;
-  background: var(--surface-space);
 }
 
 .dc-starfield { position: absolute; inset: 0; overflow: hidden; pointer-events: none; }
@@ -429,13 +440,19 @@ a:focus-visible {
   display: grid; grid-template-columns: 1.2fr 280px; gap: 40px; align-items: center;
   max-width: 1112px; margin: 0 auto;
 }
-.dc-split img { width: 220px; display: block; justify-self: center; border-radius: var(--radius-lg); border: 2px solid var(--ink-900); box-shadow: var(--shadow-sticker); }
+.dc-spin-rocket {
+  width: 220px; height: 220px; display: block; justify-self: center;
+  filter: drop-shadow(0 0 28px rgba(62, 167, 205, .55));
+  animation: dc-spin 7s linear infinite;
+}
+@keyframes dc-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .dc-spin-rocket { animation: none; } }
 .dc-split .dc-kicker { font-family: var(--font-mono); font-size: 13px; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
 .dc-split h1 {
   margin: 0; font-family: var(--font-display); font-weight: 700;
   font-size: clamp(32px, 5vw, 58px); line-height: 1.05; letter-spacing: -0.02em; color: var(--text-heading);
 }
-@media (max-width: 760px) { .dc-split { grid-template-columns: 1fr; } .dc-split img { order: -1; } }
+@media (max-width: 760px) { .dc-split { grid-template-columns: 1fr; } .dc-spin-rocket { order: -1; } }
 
 /* ---------- Past events ---------- */
 
@@ -464,8 +481,7 @@ a:focus-visible {
 .dc-past-row__title { font-family: var(--font-display); font-weight: 700; font-size: 22px; letter-spacing: -0.02em; color: var(--text-heading); }
 .dc-past-row__date { font-family: var(--font-mono); font-size: 13px; letter-spacing: .1em; color: var(--text-muted); }
 .dc-past-row__desc { font-size: 16px; flex: 1; min-width: 220px; }
-.dc-past-row__links { display: flex; gap: 14px; font-size: 15px; }
-.dc-past-row__links a { text-decoration: none; }
+.dc-past-row__links { display: flex; align-items: center; gap: 14px; }
 
 /* ---------- Code of conduct ---------- */
 
