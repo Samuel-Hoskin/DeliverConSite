@@ -1,5 +1,5 @@
 <nav class="dc-nav" id="dc-nav">
-  <a class="dc-nav__brand" href="/">
+  <a class="dc-nav__brand{% if nav == 'home' %} is-active{% endif %}" href="/">
     <img src="/assets/images/brand/rocket.png" alt="">
     <span>DeliverCon</span>
   </a>
@@ -7,7 +7,6 @@
     Menu
   </button>
   <div class="dc-nav__links" id="dc-nav-links">
-    <a class="dc-nav__tab{% if nav == 'home' %} is-active{% endif %}" href="/">2026</a>
     <a class="dc-nav__tab{% if nav == 'agenda' %} is-active{% endif %}" href="/agenda/">Agenda</a>
     <a class="dc-nav__tab{% if nav == 'unconference' %} is-active{% endif %}" href="/unconference/">First time?</a>
     <a class="dc-nav__tab{% if nav == 'events' %} is-active{% endif %}" href="/events/">Past events</a>
