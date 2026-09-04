@@ -8,16 +8,14 @@ html { color-scheme: dark; }
 
 body {
   margin: 0;
-  /* --surface-space's blooms are tuned to sit near the top/bottom of a
-     roughly one-screen-tall box (that's what it was designed as a hero
-     background for) — on a page many screens long they'd all but vanish
-     if stretched over the full document. Tiling one screen-tall copy
-     down the page instead keeps the ombre present the whole way down,
-     and recalculates on any viewport resize since it's sized in vh. */
+  /* One continuous nebula wash for the full page — not tiled. background-size
+     defaults to the size of the body's own box, so this is a single gradient
+     stretched over however tall the page ends up being, recalculated on any
+     resize/reflow. Two soft blooms sit near the very top and very bottom of
+     that box; the flat navy-to-indigo fade between them covers everything
+     in between, so there are no repeat seams at any page length. */
   background-color: var(--space-900);
   background-image: var(--surface-space);
-  background-repeat: repeat-y;
-  background-size: 100% 100vh;
   color: var(--text-body);
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
