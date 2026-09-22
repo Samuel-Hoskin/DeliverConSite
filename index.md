@@ -21,14 +21,14 @@ description: A free, volunteer-run unconference for delivery managers in and aro
       <h1>Come and discuss delivery. 🚀</h1>
       <p class="dc-lede">A free, volunteer-run unconference for delivery managers in and around the public sector. You set the agenda on the day.</p>
       <div class="dc-hero__actions">
-        <a href="mailto:info@delivercon.uk?subject=DeliverCon%202026%20ticket" class="dc-btn dc-btn--primary">Grab a free ticket</a>
+        <a href="https://luma.com/wyw7lmut?utm_source=WebsiteMainPage" class="dc-btn dc-btn--primary">Grab a free ticket</a>
         <a href="/unconference/" class="dc-btn dc-btn--outline">First time? Start here</a>
       </div>
       <span class="dc-eyebrow-line">Free · no sponsorship packages · everyone welcome</span>
     </div>
     <figure class="dc-hero__patch">
       <img src="/assets/images/brand/sticker-default.svg" alt="DeliverCon mission patch">
-      <figcaption>Birminham · 06 October 2026</figcaption>
+      <figcaption>Birmingham · 06 November 2026</figcaption>
     </figure>
   </div>
 </div>
@@ -38,18 +38,18 @@ description: A free, volunteer-run unconference for delivery managers in and aro
     <div class="dc-grid dc-grid--3">
       <div class="dc-tile">
         <span class="dc-tile__icon" aria-hidden="true">📌</span>
-        <h3>Aqua House, Birminham</h3>
-        <p>Defra, Kings Pool, 1–2 Peasholme Green, YO1 7PX. Ten minutes from the station.</p>
+        <h3>Aqua House, Birmingham</h3>
+        <p>Defra, Aqua House, 20 Lionel St, Birmingham B3 1AQ. Fifteen minutes from the station.</p>
       </div>
       <div class="dc-tile">
         <span class="dc-tile__icon" aria-hidden="true">📅</span>
-        <h3>Friday 22 May 2026</h3>
+        <h3>Friday 06 November 2026</h3>
         <p style="font-family:var(--font-mono);font-size:15px;line-height:1.7;letter-spacing:.06em">09:30 doors open<br>10:00 event starts<br>16:30 finish</p>
       </div>
       <div class="dc-tile">
         <span class="dc-tile__icon" aria-hidden="true">🥪</span>
         <h3>Bring your own lunch</h3>
-        <p>Lunch isn't provided this year — plenty of food outlets within 10 minutes. Be back for 14:00.</p>
+        <p>Lunch isn't provided — plenty of food outlets within 10 minutes. Be back for 14:00.</p>
       </div>
     </div>
   </div>

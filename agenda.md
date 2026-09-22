@@ -56,7 +56,7 @@ description: Friday's session grid — twenty sessions across five rooms, set on
 <div class="dc-section">
   <div class="dc-section__inner">
     <p class="dc-prose" style="max-width:70ch">
-      Prefer a printed grid? Facilitators have paper copies on the day. This page also works offline once loaded — your starred sessions are saved to this device only, nothing is sent anywhere.
+      This page also works offline once loaded — your starred sessions are saved to this device only, nothing is sent anywhere.
     </p>
   </div>
 </div>

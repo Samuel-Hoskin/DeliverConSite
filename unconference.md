@@ -47,7 +47,6 @@ Rigid schedule | Flexible movement between sessions
 - Participate in topic selection and voting
 - Feel free to move between sessions
 - Contribute to discussions
-- Use provided tools (like talking sticks) to ensure balanced participation
-- Take advantage of digital contribution options if preferred
+
 
 Remember: While unconferences are less formal than traditional conferences, they require active participation and engagement from attendees to be successful. The quality of discussions depends on everyone's willingness to contribute and share their knowledge and experiences.
