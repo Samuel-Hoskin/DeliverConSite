@@ -66,6 +66,7 @@ description: A free, volunteer-run unconference for delivery managers in and aro
         <span class="dc-sticker-card__step">01</span>
         <h3>Take a card.</h3>
         <p>Write what you'd talk about if you were the boldest version of yourself.</p>
+        <a href="/PitchGuidance/" class="dc-link-quiet">Pitching Guidance</a>
       </div>
       <div class="dc-sticker-card">
         <span class="dc-sticker-card__step">02</span>
@@ -113,6 +114,6 @@ description: A free, volunteer-run unconference for delivery managers in and aro
       <h2>Past events</h2>
       <a href="/events/" class="dc-link-quiet">See all past events</a>
     </div>
-    <p style="margin:0;font-size:17px;line-height:1.5;max-width:70ch">DeliverCon has run in Birmingham, Newcastle, Cardiff, London, Stratford and York since 2018. Every session's notes are online — nothing is behind a login. Follow us on <a href="https://www.linkedin.com/company/delivercon">LinkedIn</a>, <a href="https://ukgovernmentdigital.slack.com/archives/C07CMTQKC">#deliverymgmt</a> on <a href="https://x-govuk.org/posts/how-to-use-cross-government-slack/">x-gov Slack</a>, or subscribe to our <a href="https://lu.ma/DeliverCon">mailing list</a> to hear when tickets and notes go up.</p>
+    <p style="margin:0;font-size:17px;line-height:1.5;max-width:70ch">DeliverCon has run in Birmingham, Newcastle, Cardiff, London, Stratford and York since 2018. Follow us on <a href="https://www.linkedin.com/company/delivercon">LinkedIn</a>, <a href="https://ukgovernmentdigital.slack.com/archives/C07CMTQKC">#deliverymgmt</a> on <a href="https://x-govuk.org/posts/how-to-use-cross-government-slack/">x-gov Slack</a>, or subscribe to our <a href="https://lu.ma/DeliverCon">mailing list</a> to hear when tickets and notes go up.</p>
   </div>
 </div>

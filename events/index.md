@@ -4,7 +4,7 @@ nav: events
 title: Past events
 description: Ten events, one community — every session's notes, since 2018.
 ---
-<div class="dc-section dc-section--inset">
+<div class="dc-section ">
   <div class="dc-section__inner">
     <h1 style="margin:0;font-family:var(--font-display);font-weight:700;font-size:clamp(30px,4vw,44px);letter-spacing:-0.02em;color:var(--text-heading)">Eleven events, one community</h1>
     <p style="margin:12px 0 0;font-size:19px;line-height:1.5;max-width:70ch">Since 2018, a different host city almost every year. Every session's notes are here — nothing is behind a login.</p>
@@ -18,14 +18,14 @@ description: Ten events, one community — every session's notes, since 2018.
       <div class="dc-past-lead__meta">
         <span class="dc-past-lead__kicker">Next up · 06 November 2026</span>
         <span class="dc-past-lead__title">DeliverCon 2026.2 — Birmingham</span>
-        <span style="font-size:16px">Foss House, Defra. Tickets open now.</span>
+        <span style="font-size:16px">Tickets avilable soon</span>
       </div>
       <a href="https://luma.com/wyw7lmut?utm_source=WebsiteEventPage" class="dc-btn dc-btn--primary dc-btn--small" style="margin-left:auto">Get a ticket</a>
     </div>
     {%- for event in collections.event %}
     <div class="dc-past-row">
       <span class="dc-past-row__badge">
-        {%- if event.fileSlug == "DeliverCon2025" %}<img src="/assets/images/brand/mission-patch-2025.png" alt="">
+        {%- if event.fileSlug == "" %}<img src="/assets/images/brand/mission-patch-2025.png" alt="">
         {%- elif event.data.image %}<img src="{{ event.data.image.src }}" alt="">
         {%- else %}{{ event.data.date | dcDate }}{%- endif %}
       </span>

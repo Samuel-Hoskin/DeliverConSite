@@ -4,7 +4,7 @@ title: Agenda
 nav: agenda
 description: Friday's session grid — twenty sessions across five rooms, set on the day.
 ---
-<div class="dc-section dc-section--inset">
+<div class="dc-section ">
   <div class="dc-section__inner">
     <div class="dc-agenda-toolbar">
       <h1>Friday's agenda</h1>
@@ -12,13 +12,6 @@ description: Friday's session grid — twenty sessions across five rooms, set on
       <span class="dc-badge-pill" data-my-day-count style="margin-left:auto">My day</span>
     </div>
     <p style="margin:0 0 4px;font-size:17px;line-height:1.5;max-width:74ch">Tap a session to add it to your day. Nothing is booked — rooms are first come, and you can walk out of any of them.</p>
-    <div class="dc-chip-row">
-      <button type="button" class="dc-chip is-active" data-filter="all">All sessions</button>
-      <button type="button" class="dc-chip" data-filter="career">Career &amp; craft</button>
-      <button type="button" class="dc-chip" data-filter="teams">Teams &amp; risk</button>
-      <button type="button" class="dc-chip" data-filter="ai">AI</button>
-      <button type="button" class="dc-chip" data-filter="lightning">Lightning ⚡️</button>
-    </div>
   </div>
 </div>
 
@@ -55,7 +48,7 @@ description: Friday's session grid — twenty sessions across five rooms, set on
 
 <div class="dc-section">
   <div class="dc-section__inner">
-    <p class="dc-prose" style="max-width:70ch">
+    <p class="dc-prose" >
       This page also works offline once loaded — your starred sessions are saved to this device only, nothing is sent anywhere.
     </p>
   </div>
