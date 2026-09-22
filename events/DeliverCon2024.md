@@ -1,8 +1,8 @@
 ---
-layout: post
-order: 1
-title: DeliverCon2024
-description: DeliverCon2024 took take place on the 18th April 2024 in central Cardiff.
+layout: layouts/prose.njk
+nav: events
+title: DeliverCon 2024 — Cardiff
+description: DeliverCon2024 took place on the 18th April 2024 in central Cardiff.
 date: 2024-04-18
 modified: 2024-11-01
 image: 

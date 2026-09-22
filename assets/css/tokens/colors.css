@@ -1,0 +1,59 @@
+/* Base palette. Every value is sampled from the DeliverCon 2026 deck: the slide
+   background, the Google Slides theme scheme, and the rocket / mission-patch artwork. */
+:root{
+  /* Space - the constant. Navy is the brand's home. */
+  --space-900:#0d2136;
+  --space-800:#122c44;
+  --space-700:#173753; /* slide background, patch background */
+  --space-600:#29577b; /* patch mid-tone */
+  --space-500:#3b6d95;
+
+  /* Rocket - sampled from the 🚀 artwork */
+  --rocket-blue:#3ea7cd;
+  --rocket-blue-deep:#438bc1;
+  --rocket-silver:#d9e1e8;
+  --rocket-silver-shade:#c5ced5;
+  --rocket-red:#f05644;
+  --rocket-red-shade:#cc4746;
+  --flame-orange:#f89b29;
+
+  /* Signal - the Google Slides theme accents, kept because the deck leans on them */
+  --signal-orange:#ffab40; /* accent1 - primary highlight */
+  --signal-teal:#0097a7;   /* accent5 - links */
+  --signal-lime:#eeff41;   /* accent6 - loud callouts */
+  --signal-green:#20af5e;  /* globe green */
+
+  /* Nebula - the space fade behind star fields */
+  --nebula-violet:#4b2f80;
+  --nebula-indigo:#1a1b3a;
+  --space-nebula:radial-gradient(120% 95% at 10% 6%,rgba(75,47,128,.58) 0%,rgba(75,47,128,0) 58%),radial-gradient(95% 85% at 90% 94%,rgba(62,167,205,.26) 0%,rgba(62,167,205,0) 62%),linear-gradient(160deg,#16304a 0%,#102a42 46%,#1a1b3a 100%); /* @kind color */
+
+  /* Neutrals */
+  --ink-900:#080605; /* patch outline black */
+  --ink-800:#212121;
+  --ink-600:#595959;
+  --ink-400:#78909c;
+  --paper-200:#eeeeee;
+  --paper-100:#f6f4ef;
+  --paper-000:#ffffff;
+
+  /* Semantic aliases - theme files reassign these, components only ever use these */
+  --surface-page:var(--space-700);
+  --surface-space:var(--space-nebula);
+  --surface-raised:rgba(255,255,255,.07);
+  --surface-card:var(--paper-000);
+  --surface-inset:var(--space-800);
+  --text-heading:var(--paper-000);
+  --text-body:rgba(255,255,255,.92);
+  --text-muted:rgba(255,255,255,.62);
+  --text-on-card:var(--ink-800);
+  --text-on-accent:var(--space-900);
+  --accent:var(--signal-orange);
+  --accent-quiet:var(--rocket-blue);
+  --link:var(--signal-teal);
+  --link-hover:var(--rocket-blue);
+  --border-hairline:rgba(255,255,255,.18);
+  --border-strong:var(--ink-900);
+  --star:var(--paper-200);
+  --focus-ring:var(--signal-lime);
+}

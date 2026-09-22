@@ -1,0 +1,56 @@
+{
+  "event": "DeliverCon 2026.2 — Birmingham",
+  "date": "Friday 06 November 2026",
+  "note": "Set at 10:40 by the room · subject to change",
+  "rooms": ["Room A", "Room B", "Room C", "Room D", "Room E"],
+  "slots": [
+    {
+      "id": "s1",
+      "time": "11:00–11:45",
+      "label": "SESSION 1",
+      "sessions": [
+        { "id": "s1a", "tag": "", "title": "[TBC]" },
+        { "id": "s1b", "tag": "", "title": "[TBC]" },
+        { "id": "s1c", "tag": "", "title": "[TBC]" },
+        { "id": "s1d", "tag": "", "title": "[TBC]" },
+        { "id": "s1e", "tag": "", "title": "[TBC]" }
+      ]
+    },
+    {
+      "id": "s2",
+      "time": "12:10–12:55",
+      "label": "SESSION 2",
+      "sessions": [
+        { "id": "s2a", "tag": "", "title": "[TBC]" },
+        { "id": "s2b", "tag": "", "title": "[TBC]" },
+        { "id": "s2c", "tag": "", "title": "[TBC]" },
+        { "id": "s2d", "tag": "", "title": "[TBC]" },
+        { "id": "s2e", "tag": "", "title": "[TBC]" }
+      ]
+    },
+    {
+      "id": "s3",
+      "time": "14:00–14:45",
+      "label": "SESSION 3",
+      "sessions": [
+        { "id": "s3a", "tag": "", "title": "[TBC]" },
+        { "id": "s3b", "tag": "", "title": "[TBC]" },
+        { "id": "s3c", "tag": "", "title": "[TBC]" },
+        { "id": "s3d", "tag": "", "title": "[TBC]" },
+        { "id": "s3e", "tag": "", "title": "[TBC]" }
+      ]
+    },
+    {
+      "id": "s4",
+      "time": "15:00–15:45",
+      "label": "SESSION 4",
+      "sessions": [
+        { "id": "s4a", "tag": "", "title": "[TBC]" },
+        { "id": "s4b", "tag": "", "title": "[TBC]" },
+        { "id": "s4c", "tag": "", "title": "[TBC]" },
+        { "id": "s4d", "tag": "", "title": "[TBC]" },
+        { "id": "s4e", "tag": "", "title": "[TBC]" }
+      ]
+    }
+  ]
+}

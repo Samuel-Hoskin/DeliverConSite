@@ -1,0 +1,55 @@
+---
+layout: layouts/base.njk
+title: Agenda
+nav: agenda
+description: Friday's session grid — twenty sessions across five rooms, set on the day.
+---
+<div class="dc-section ">
+  <div class="dc-section__inner">
+    <div class="dc-agenda-toolbar">
+      <h1>Friday's agenda</h1>
+      <span class="dc-eyebrow-line" style="color:var(--accent)">{{ agenda.note }}</span>
+      <span class="dc-badge-pill" data-my-day-count style="margin-left:auto">My day</span>
+    </div>
+    <p style="margin:0 0 4px;font-size:17px;line-height:1.5;max-width:74ch">Tap a session to add it to your day. Nothing is booked — rooms are first come, and you can walk out of any of them.</p>
+  </div>
+</div>
+
+<div class="dc-section" data-agenda>
+  <div class="dc-section__inner">
+    <div class="dc-slot-head">
+      <span></span>
+      {%- for room in agenda.rooms %}<span>{{ room }}</span>{%- endfor %}
+    </div>
+    {%- for slot in agenda.slots %}
+    <div class="dc-slot">
+      <span class="dc-slot__time">{{ slot.time | replace("–", "<br>") | safe }}</span>
+      {%- for session in slot.sessions %}
+      <button type="button" class="dc-session" data-session-id="{{ session.id }}" data-tag="{{ session.tag }}" data-slot="{{ slot.label }}">
+        <span class="dc-session__room">{{ agenda.rooms[loop.index0] }}</span>
+        <span class="dc-session__meta" data-session-meta>{{ slot.label }}</span>
+        <span class="dc-session__title">{{ session.title }}</span>
+      </button>
+      {%- endfor %}
+    </div>
+    {%- if slot.id == "s2" %}
+    <div class="dc-lunch-row">
+      <span class="dc-slot__time">13:00<br>14:00</span>
+      <span class="dc-lunch-row__body">
+        <span aria-hidden="true" style="font-size:26px">🥪</span>
+        <span class="dc-lunch-row__title">Lunch — bring your own</span>
+        <span class="dc-lunch-row__note">Lightning talks ⚡️ in Room A from 13:20. Please be back for 14:00.</span>
+      </span>
+    </div>
+    {%- endif %}
+    {%- endfor %}
+  </div>
+</div>
+
+<div class="dc-section">
+  <div class="dc-section__inner">
+    <p class="dc-prose" >
+      This page also works offline once loaded — your starred sessions are saved to this device only, nothing is sent anywhere.
+    </p>
+  </div>
+</div>

@@ -1,8 +1,8 @@
 ---
-layout: post
-order: 1
-title: DeliverCon2024.2
-description: DeliverCon2024.2 took take place on the 7th Novemeber 2024 in London.
+layout: layouts/prose.njk
+nav: events
+title: DeliverCon 2024.2 — London
+description: DeliverCon2024.2 took place on the 7th November 2024 in London.
 date: 2024-11-07
 modified: 2025-02-28
 image: 
@@ -88,6 +88,4 @@ tags: event
 
 
 
-<a href="https://lu.ma/DeliverCon" role="button" draggable="false" class="govuk-button govuk-button--start" data-module="govuk-button">
-  Sign up to the mailing list
-  </a>
+<p><a class="dc-btn dc-btn--primary" href="https://lu.ma/DeliverCon">Sign up to the mailing list</a></p>

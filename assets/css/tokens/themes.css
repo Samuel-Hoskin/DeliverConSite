@@ -1,0 +1,57 @@
+/* Event themes. DeliverCon moves city every year and the deck restyles to suit the venue,
+   so the palette is a swappable skin over one fixed structure.
+   Usage: <body data-theme="daylight">. Default (no attribute) is Deep Space. */
+[data-theme="deep-space"]{
+  --surface-page:var(--space-700);
+  --surface-space:var(--space-nebula);
+  --surface-raised:rgba(255,255,255,.07);
+  --surface-inset:var(--space-800);
+  --text-heading:var(--paper-000);
+  --text-body:rgba(255,255,255,.92);
+  --text-muted:rgba(255,255,255,.62);
+  --accent:var(--signal-orange);
+  --accent-quiet:var(--rocket-blue);
+  --border-hairline:rgba(255,255,255,.18);
+  --star:var(--paper-200);
+}
+[data-theme="mission-control"]{
+  --surface-page:#121417;
+  --surface-space:radial-gradient(110% 90% at 18% 4%,rgba(238,255,65,.10) 0%,rgba(238,255,65,0) 55%),linear-gradient(160deg,#16191d 0%,#121417 55%,#0a0b0d 100%);
+  --surface-raised:rgba(238,255,65,.08);
+  --surface-inset:#0a0b0d;
+  --text-heading:var(--paper-000);
+  --text-body:rgba(255,255,255,.9);
+  --text-muted:rgba(255,255,255,.55);
+  --accent:var(--signal-lime);
+  --accent-quiet:var(--signal-teal);
+  --text-on-accent:var(--ink-900);
+  --border-hairline:rgba(238,255,65,.22);
+  --star:var(--signal-lime);
+}
+[data-theme="daylight"]{
+  --surface-page:var(--paper-100);
+  --surface-space:linear-gradient(160deg,#fbfaf6 0%,#f6f4ef 60%,#eceae2 100%);
+  --surface-raised:var(--paper-000);
+  --surface-inset:var(--paper-200);
+  --text-heading:var(--space-700);
+  --text-body:var(--ink-800);
+  --text-muted:var(--ink-600);
+  --accent:var(--rocket-red);
+  --accent-quiet:var(--rocket-blue-deep);
+  --text-on-accent:var(--paper-000);
+  --border-hairline:rgba(23,55,83,.18);
+  --star:var(--space-600);
+}
+[data-theme="re-entry"]{
+  --surface-page:#4a1f2b;
+  --surface-space:radial-gradient(115% 95% at 12% 6%,rgba(248,155,41,.30) 0%,rgba(248,155,41,0) 58%),linear-gradient(160deg,#5a2532 0%,#4a1f2b 52%,#2c1220 100%);
+  --surface-raised:rgba(255,255,255,.08);
+  --surface-inset:#37151f;
+  --text-heading:var(--paper-000);
+  --text-body:rgba(255,255,255,.92);
+  --text-muted:rgba(255,255,255,.6);
+  --accent:var(--flame-orange);
+  --accent-quiet:var(--rocket-red);
+  --border-hairline:rgba(255,255,255,.2);
+  --star:#ffd9a8;
+}

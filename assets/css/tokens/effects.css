@@ -1,0 +1,21 @@
+:root{
+  --radius-sm:6px;
+  --radius-md:12px;
+  --radius-lg:20px;
+  --radius-pill:999px;
+
+  --border-width:2px;
+  --border-card:2px solid var(--border-strong);
+
+  --shadow-sticker:0 4px 0 0 var(--ink-900);
+  --shadow-sticker-press:0 2px 0 0 var(--ink-900);
+  --shadow-card:0 10px 24px -12px rgba(8,6,5,.45);
+  --shadow-lift:0 18px 40px -18px rgba(8,6,5,.55);
+  --glow-accent:0 0 0 6px rgba(255,171,64,.25);
+
+  --ease-out:cubic-bezier(.2,.7,.3,1); /* @kind other */
+  --ease-bounce:cubic-bezier(.34,1.56,.64,1); /* @kind other */
+  --dur-fast:120ms; /* @kind other */
+  --dur-base:200ms; /* @kind other */
+  --dur-slow:420ms; /* @kind other */
+}

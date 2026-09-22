@@ -1,101 +1,119 @@
 ---
-homepage: true
-layout: product
-order: 5
-title: Welcome
-description: We're the biannual unconference for delivery managers in and around the public sector. We come together as a community to develop our profession and improve public services.
-startButton:
-  href: "https://forms.office.com/Pages/ResponsePage.aspx?id=UCQKdycCYkyQx044U38RAnZHRQQdA9JKno6ggQuqbAhUQTlaVkRZTDRBUjFNU1IyNTlXWkEwVjlNRy4u"
-  text: Provide Feedback
-image:
-  src: /assets/images/DeliverCon-Default-Sticker.svg
-  alt: DeliverCon event sticker
-aside:
-  title: "Check out our:"
-  content: | 
-    [Past Events](../../events)
-    [Unconference Explainer](/unconference)
-    [Facilitation Guide](/facilitation)
-    [Code of Conduct](/code-of-conduct)
-    
+layout: layouts/base.njk
+nav: home
+title: DeliverCon 2026 — York
+description: A free, volunteer-run unconference for delivery managers in and around the public sector. You set the agenda on the day.
 ---
+<div class="dc-space">
+  <div class="dc-starfield" aria-hidden="true">
+    <span class="dc-star" style="left:6%;top:16%;width:34px;height:43px;filter:drop-shadow(0 0 15px rgba(207,230,255,.7))"></span>
+    <span class="dc-star" style="left:17%;top:66%;width:20px;height:25px;background:#cfe6ff;opacity:.62;filter:drop-shadow(0 0 9px rgba(207,230,255,.45))"></span>
+    <span class="dc-star" style="left:31%;top:9%;width:26px;height:33px;background:#ffe3b8;opacity:.9;filter:drop-shadow(0 0 12px rgba(207,230,255,.6))"></span>
+    <span class="dc-star" style="left:44%;top:74%;width:17px;height:22px;background:var(--star);opacity:.5;filter:drop-shadow(0 0 8px rgba(207,230,255,.35))"></span>
+    <span class="dc-star" style="left:57%;top:22%;width:30px;height:38px;opacity:.95;filter:drop-shadow(0 0 14px rgba(207,230,255,.65))"></span>
+    <span class="dc-star" style="left:68%;top:58%;width:19px;height:24px;background:#bfe9ff;opacity:.7;filter:drop-shadow(0 0 9px rgba(207,230,255,.5))"></span>
+    <span class="dc-star" style="left:88%;top:76%;width:22px;height:28px;background:#ffe3b8;opacity:.75;filter:drop-shadow(0 0 10px rgba(207,230,255,.5))"></span>
+    <span class="dc-star" style="left:94%;top:26%;width:16px;height:20px;background:#cfe6ff;opacity:.6;filter:drop-shadow(0 0 7px rgba(207,230,255,.4))"></span>
+  </div>
+  <div class="dc-hero">
+    <div style="display:flex;flex-direction:column;gap:20px;align-items:flex-start">
+      <span class="dc-hero__eyebrow">11TH DELIVERCON</span>
+      <h1>Come and discuss delivery. 🚀</h1>
+      <p class="dc-lede">A free, volunteer-run unconference for delivery managers in and around the public sector. You set the agenda on the day.</p>
+      <div class="dc-hero__actions">
+        <a href="https://luma.com/wyw7lmut?utm_source=WebsiteMainPage" class="dc-btn dc-btn--primary">Grab a free ticket</a>
+        <a href="/unconference/" class="dc-btn dc-btn--outline">First time? Start here</a>
+      </div>
+      <span class="dc-eyebrow-line">Free · everyone welcome</span>
+    </div>
+    <figure class="dc-hero__patch">
+      <img src="/assets/images/brand/sticker-default.svg" alt="DeliverCon mission patch">
+      <figcaption>Birmingham · 06 November 2026</figcaption>
+    </figure>
+  </div>
+</div>
 
+<div class="dc-section">
+  <div class="dc-section__inner">
+    <div class="dc-grid dc-grid--3">
+      <div class="dc-tile">
+        <span class="dc-tile__icon" aria-hidden="true">📌</span>
+        <h3>Aqua House, Birmingham</h3>
+        <p>Defra, Aqua House, 20 Lionel St, Birmingham B3 1AQ. Fifteen minutes from the station.</p>
+      </div>
+      <div class="dc-tile">
+        <span class="dc-tile__icon" aria-hidden="true">📅</span>
+        <h3>Friday 06 November 2026</h3>
+        <p style="font-family:var(--font-mono);font-size:15px;line-height:1.7;letter-spacing:.06em">09:30 doors open<br>10:00 event starts<br>16:30 finish</p>
+      </div>
+      <div class="dc-tile">
+        <span class="dc-tile__icon" aria-hidden="true">🥪</span>
+        <h3>Bring your own lunch</h3>
+        <p>Lunch isn't provided — plenty of food outlets within 10 minutes. Be back for 14:00.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-## DeliverCon 2026
+<div class="dc-section ">
+  <div class="dc-section__inner">
+    <div class="dc-section__head">
+      <h2>How the day works</h2>
+      <a href="/unconference/" class="dc-link-quiet">What is an unconference?</a>
+    </div>
+    <div class="dc-grid dc-grid--4">
+      <div class="dc-sticker-card">
+        <span class="dc-sticker-card__step">01</span>
+        <h3>Take a card.</h3>
+        <p>Write what you'd talk about if you were the boldest version of yourself.</p>
+        <a href="/PitchGuidance/" class="dc-link-quiet">Pitching Guidance</a>
+      </div>
+      <div class="dc-sticker-card">
+        <span class="dc-sticker-card__step">02</span>
+        <h3>Shuffle. Score.</h3>
+        <p>Cards move round the room and everyone scores them. No pitching from the front.</p>
+      </div>
+      <div class="dc-sticker-card">
+        <span class="dc-sticker-card__step">03</span>
+        <h3>Discuss.</h3>
+        <p>Top-scoring topics fill five rooms across four sessions. Move whenever you like.</p>
+      </div>
+      <div class="dc-sticker-card">
+        <span class="dc-sticker-card__step">04</span>
+        <h3>Write it down.</h3>
+        <p>Every room keeps notes. They go up here the same week — for everyone.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-DeliverCon is a gathering for delivery managers in and around the public sector. We follow an unconference format, where the agenda for the day is set on the day by the people that are in the room.
-DeliverCon is back for it's 10th intstallment
+<div class="dc-section">
+  <div class="dc-section__inner">
+    <div class="dc-section__head">
+      <h2>On the day</h2>
+      <span class="dc-eyebrow-line">Set at 10:40 by the room</span>
+    </div>
+    <div class="dc-grid dc-grid--2">
+      <a href="/agenda/" class="dc-tile-link">
+        <span class="dc-tile-link__kicker">Agenda ⚡️</span>
+        <span class="dc-tile-link__title">See what's on in each room</span>
+        <span class="dc-tile-link__body">Twenty sessions over five spaces.</span>
+      </a>
+      <a href="/unconference/" class="dc-tile-link">
+        <span class="dc-tile-link__kicker">Pitch &amp; vote</span>
+        <span class="dc-tile-link__title">How ideas get picked on the day</span>
+        <span class="dc-tile-link__body">Paper cards, scored by the room.</span>
+      </a>
+    </div>
+  </div>
+</div>
 
-## Key Details
-
-​📌 Defra, Foss House, Kings Pool, 1-2 Peasholme Green, York, YO1 7PX
-
-​📅 Friday 22nd May 2026
-
-🚪 09:30 - Doors Open
-🎬 10:00 - Event Starts
-🏁 16:30 - Event Finish
-
-📃 Notes (Photos) - [Google Photo Album](https://photos.app.goo.gl/1w9YHeeE8A3VAdYz8)
-
-📚 Notes (Written) - [Google Drive](https://drive.google.com/drive/folders/1uhmz1R1NY_N4wlZF0Q8dDXOiU25d6Yxx?usp=sharing)
-
-📷 Photos from the day - [Google Photo Album](https://photos.app.goo.gl/fkmtGoM2VPHDmpPu5)
-
-## Agenda
-
-*Subject to change*
-
-### Session 1 - 11:00 to 11:45
-
-| Room | Title | 
-| ----------- | ----------- | 
-| A | How can we be agile when senior management are waterfall? |
-| B | Psycology of Delivery (Makeing Estimation / Forecasting work for you team) | 
-| C | How to foster goods conversation and guide your team to clear decisions?  | 
-| D | When the heirachy is the blocker what do you do? How would you handle it? | 
-| E | How to further enhance comms with stakeholders? | 
-
-### Session 2 - 12:10 to 12:55
-
-| Room | Title | 
-| ----------- | ----------- | 
-| A | What has happend around DeliverCon? Births, Deaths, Marriages... Lets get to know each other| 
-| B | What career paths are there before and after Delivery Management? | 
-| C | How to make a change to your department? | 
-| D | How will AI change delivery? | 
-| E | How to build and interactive and engaging community of pratice where people contribute (and use camera's) | 
-
-### Lunch - 13:00 to 14:00
-
-Lunch is not provided, so please bring your own food for the day. There are various food outlets within 10 mintues of the venue.
-
-Please ensure you are back on time for 14:00
-
-### Session 3 - 14:00 to 14:45
-
-| Room | Title | 
-| ----------- | ----------- | 
-| A | How to best get outside teams to engage? | 
-| B | Do we need a new model without practices/professions - Now that everyone is T-Shaped? | 
-| C | Build a DM Workshop - What makes a DM Great | 
-| D | How do we meaningfully measure the impact of delivery leadership? | 
-| E | What is the impact of AI on recuitment? | 
-
-### Session 4 - 15:00 to 15:45
-
-| Room | Title | 
-| ----------- | ----------- | 
-| A | What if you PM doesn't want or value their DM? | 
-| B | How do you improve how teams discuss + take accountability of risk? | 
-| C | How to support people who want to move into delivery roles from other areas of the business? | 
-| D | How to approach planning with no set deadlines or milestones, where project scope is unclear or changing | 
-| E | Breakdown siloed ways of working - move towards high performing multi disclipinary teams | 
-
-
-To find out the latest, follow us on [LinkedIn](https://www.linkedin.com/company/delivercon), [#deliverymgmt](https://ukgovernmentdigital.slack.com/archives/C07CMTQKC) on [x-gov slack](https://x-govuk.org/posts/how-to-use-cross-government-slack/) or subscribe to our [event calander / mailing list](https://lu.ma/DeliverCon).
-
-## Past Events
-
-For more details on previous DeliverCon's, check out our past [event pages](../../events)
-
+<div class="dc-section ">
+  <div class="dc-section__inner">
+    <div class="dc-section__head">
+      <h2>Past events</h2>
+      <a href="/events/" class="dc-link-quiet">See all past events</a>
+    </div>
+    <p style="margin:0;font-size:17px;line-height:1.5;max-width:70ch">DeliverCon has run in Birmingham, Newcastle, Cardiff, London, Stratford and York since 2018. Follow us on <a href="https://www.linkedin.com/company/delivercon">LinkedIn</a>, <a href="https://ukgovernmentdigital.slack.com/archives/C07CMTQKC">#deliverymgmt</a> on <a href="https://x-govuk.org/posts/how-to-use-cross-government-slack/">x-gov Slack</a>, or subscribe to our <a href="https://lu.ma/DeliverCon">mailing list</a> to hear when tickets and notes go up.</p>
+  </div>
+</div>

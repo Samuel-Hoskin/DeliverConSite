@@ -1,6 +1,5 @@
 ---
-layout: page
-order: 1
+layout: layouts/prose.njk
 title: Privacy Policy
 description: How we use your data
 ---

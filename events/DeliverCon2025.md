@@ -1,8 +1,8 @@
 ---
-layout: post
-order: 1
-title: DeliverCon2025
-description: DeliverCon2025 took take place on the 21st May 2025 in York.
+layout: layouts/prose.njk
+nav: events
+title: DeliverCon 2025 — York
+description: DeliverCon2025 took place on the 21st May 2025 in York.
 date: 2025-05-21
 modified: 2025-05-23
 image: 
