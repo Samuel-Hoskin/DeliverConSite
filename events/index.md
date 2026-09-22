@@ -16,8 +16,8 @@ description: Ten events, one community — every session's notes, since 2018.
     <div class="dc-past-lead">
       <img src="/assets/images/brand/sticker-default.svg" alt="">
       <div class="dc-past-lead__meta">
-        <span class="dc-past-lead__kicker">Next up · 22 May 2026</span>
-        <span class="dc-past-lead__title">DeliverCon 2026 — York</span>
+        <span class="dc-past-lead__kicker">Next up · 06 October 2026</span>
+        <span class="dc-past-lead__title">DeliverCon 2026.2 — Birminham</span>
         <span style="font-size:16px">Foss House, Defra. Tickets open now.</span>
       </div>
       <a href="mailto:info@delivercon.uk?subject=DeliverCon%202026%20ticket" class="dc-btn dc-btn--primary dc-btn--small" style="margin-left:auto">Get a ticket</a>

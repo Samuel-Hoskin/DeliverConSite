@@ -17,8 +17,8 @@ description: A free, volunteer-run unconference for delivery managers in and aro
   </div>
   <div class="dc-hero">
     <div style="display:flex;flex-direction:column;gap:20px;align-items:flex-start">
-      <span class="dc-hero__eyebrow">10TH DELIVERCON</span>
-      <h1>Come and talk delivery. 🚀</h1>
+      <span class="dc-hero__eyebrow">11TH DELIVERCON</span>
+      <h1>Come and discuss delivery. 🚀</h1>
       <p class="dc-lede">A free, volunteer-run unconference for delivery managers in and around the public sector. You set the agenda on the day.</p>
       <div class="dc-hero__actions">
         <a href="mailto:info@delivercon.uk?subject=DeliverCon%202026%20ticket" class="dc-btn dc-btn--primary">Grab a free ticket</a>
@@ -28,7 +28,7 @@ description: A free, volunteer-run unconference for delivery managers in and aro
     </div>
     <figure class="dc-hero__patch">
       <img src="/assets/images/brand/sticker-default.svg" alt="DeliverCon mission patch">
-      <figcaption>York · 22 May 2026</figcaption>
+      <figcaption>Birminham · 06 October 2026</figcaption>
     </figure>
   </div>
 </div>
@@ -38,7 +38,7 @@ description: A free, volunteer-run unconference for delivery managers in and aro
     <div class="dc-grid dc-grid--3">
       <div class="dc-tile">
         <span class="dc-tile__icon" aria-hidden="true">📌</span>
-        <h3>Foss House, York</h3>
+        <h3>Aqua House, Birminham</h3>
         <p>Defra, Kings Pool, 1–2 Peasholme Green, YO1 7PX. Ten minutes from the station.</p>
       </div>
       <div class="dc-tile">
