@@ -6,7 +6,7 @@ description: Ten events, one community — every session's notes, since 2018.
 ---
 <div class="dc-section dc-section--inset">
   <div class="dc-section__inner">
-    <h1 style="margin:0;font-family:var(--font-display);font-weight:700;font-size:clamp(30px,4vw,44px);letter-spacing:-0.02em;color:var(--text-heading)">Ten events, one community</h1>
+    <h1 style="margin:0;font-family:var(--font-display);font-weight:700;font-size:clamp(30px,4vw,44px);letter-spacing:-0.02em;color:var(--text-heading)">Eleven events, one community</h1>
     <p style="margin:12px 0 0;font-size:19px;line-height:1.5;max-width:70ch">Since 2018, a different host city almost every year. Every session's notes are here — nothing is behind a login.</p>
   </div>
 </div>

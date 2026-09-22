@@ -24,7 +24,7 @@ description: A free, volunteer-run unconference for delivery managers in and aro
         <a href="https://luma.com/wyw7lmut?utm_source=WebsiteMainPage" class="dc-btn dc-btn--primary">Grab a free ticket</a>
         <a href="/unconference/" class="dc-btn dc-btn--outline">First time? Start here</a>
       </div>
-      <span class="dc-eyebrow-line">Free · no sponsorship packages · everyone welcome</span>
+      <span class="dc-eyebrow-line">Free · everyone welcome</span>
     </div>
     <figure class="dc-hero__patch">
       <img src="/assets/images/brand/sticker-default.svg" alt="DeliverCon mission patch">
@@ -55,7 +55,7 @@ description: A free, volunteer-run unconference for delivery managers in and aro
   </div>
 </div>
 
-<div class="dc-section dc-section--inset">
+<div class="dc-section ">
   <div class="dc-section__inner">
     <div class="dc-section__head">
       <h2>How the day works</h2>
@@ -96,18 +96,18 @@ description: A free, volunteer-run unconference for delivery managers in and aro
       <a href="/agenda/" class="dc-tile-link">
         <span class="dc-tile-link__kicker">Agenda ⚡️</span>
         <span class="dc-tile-link__title">See what's on in each room</span>
-        <span class="dc-tile-link__body">Twenty sessions, five rooms, no printing required.</span>
+        <span class="dc-tile-link__body">Twenty sessions over five spaces.</span>
       </a>
       <a href="/unconference/" class="dc-tile-link">
         <span class="dc-tile-link__kicker">Pitch &amp; vote</span>
         <span class="dc-tile-link__title">How ideas get picked on the day</span>
-        <span class="dc-tile-link__body">Paper cards, scored by the room — no app needed.</span>
+        <span class="dc-tile-link__body">Paper cards, scored by the room.</span>
       </a>
     </div>
   </div>
 </div>
 
-<div class="dc-section dc-section--inset">
+<div class="dc-section ">
   <div class="dc-section__inner">
     <div class="dc-section__head">
       <h2>Past events</h2>

@@ -2,8 +2,8 @@
   --font-display:"Space Grotesk","Helvetica Neue",Arial,sans-serif;
   --font-body:"Lexend","Helvetica Neue",Arial,sans-serif;
   --font-mono:"Space Mono",ui-monospace,monospace;
-  --font-hand:"Caveat","Bradley Hand",cursive;
-
+  --font-hand:"Space Grotesk","Helvetica Neue",Arial,sans-serif;
+  
   /* Slide scale (1280x720 canvas) */
   --size-slide-hero:88px;
   --size-slide-title:60px;
