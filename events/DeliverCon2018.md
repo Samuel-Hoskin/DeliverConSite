@@ -6,9 +6,8 @@ description: DeliverCon 2018 took place on the 11th October 2018 in Birmingham.
 date: 2018-10-11
 modified: 2018-10-11
 image:
-  src: /assets/images/DeliverCon2023.jpeg
-  alt: A room of people with some standing pitching ideas for sessions.
-  caption: Mid Pitching at DeliverCon2023
+  src: /assets/images/DeliverCon2018.webp
+  alt: Session Grid
 author:
    name: Samuel Hoskin
    url: 
@@ -19,31 +18,14 @@ tags:
 
 ### Venue
 
-Defra, one of this years sponsors also provided the space for this event in Birmingham.
+The first DeliverCon was hosted in the Priory Rooms, in Birmingham
 
 ### Attendance
 
-There was 96 people in attendance from a total of x organisations.
+There was around 80 people in attendance from across goverment and the wider public sector.
 
-### Sessions
+### Weeknotes
 
-We had 4 spaces and 5 sessions throughout the day giving us a total of 20 sessions thought out the day.
-
-### Social
-
-We asked people to share there experience using [#DeliverCon2023](https://twitter.com/hashtag/delivercon2023).
-
-
-
-We also asked people upload any pictures they took to a shared [Google Photos album]().
-
-We had a pre and post event social at The Old Joint Stock Pub & Theatre (4 Temple Row West, Birmingham, B2 5NY). 
-
-
-### Feedback
-
-Feedback received has been overwhelmingly positive: 
-
-- 98% people liked x
-- 10 people said y was great
-- Z was the most popular 
+- [Ben Lidgey - Weeknote #41 — DeliverCon 2018](https://medium.com/@benlidgey/weeknote-41-delivercon-2018-8df88797d3ce)
+- [Darren McCormac - Thoughts from #DeliverCon18](https://medium.com/@darren.mccormac/thoughts-from-delivercon18-2d2263b60f2e)
+- [DeliverCon — Bringing Delivery people from across Government together](https://medium.com/@IanAmes/delivercon-bringing-delivery-people-from-across-government-together-f264f28c679d)
