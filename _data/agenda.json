@@ -21,10 +21,10 @@
       "time": "12:10–12:55",
       "label": "SESSION 2",
       "sessions": [
-        { "id": "s2a", "tag": "", "title": "[TBC]" },
-        { "id": "s2b", "tag": "", "title": "[TBC]" },
-        { "id": "s2c", "tag": "", "title": "[TBC]" },
-        { "id": "s2d", "tag": "", "title": "[TBC]" },
+        { "id": "s2a", "tag": "", "title": "How are you useing AI to help with your day to day job?" },
+        { "id": "s2b", "tag": "", "title": "Planning work in a unpredictable live team" },
+        { "id": "s2c", "tag": "", "title": "How have you created psychological safety in a struggling team?" },
+        { "id": "s2d", "tag": "", "title": "Progression as a Delivery Human" },
         { "id": "s2e", "tag": "", "title": "[TBC]" }
       ]
     },
