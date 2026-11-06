@@ -45,10 +45,10 @@
       "time": "15:00–15:45",
       "label": "SESSION 4",
       "sessions": [
-        { "id": "s4a", "tag": "", "title": "[TBC]" },
-        { "id": "s4b", "tag": "", "title": "[TBC]" },
-        { "id": "s4c", "tag": "", "title": "[TBC]" },
-        { "id": "s4d", "tag": "", "title": "[TBC]" },
+        { "id": "s4a", "tag": "", "title": "How to build unity + make decision with stakeholdersaffected by bussines change?" },
+        { "id": "s4b", "tag": "", "title": "What annoy you the most about your team / governace / policy? 'Rant Room'" },
+        { "id": "s4c", "tag": "", "title": "On Trust... If delivery happens at the speed of trust... what are the key ingredients of building the trust?" },
+        { "id": "s4d", "tag": "", "title": "Scrumban - mixing the two effectively" },
         { "id": "s4e", "tag": "", "title": "[TBC]" }
       ]
     }
