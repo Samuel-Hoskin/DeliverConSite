@@ -2,7 +2,7 @@
   "event": "DeliverCon 2026.2 — Birmingham",
   "date": "Friday 06 November 2026",
   "note": "Set at 10:40 by the room · subject to change",
-  "rooms": ["Room A", "Room B", "Room C", "Room D"],
+  "rooms": ["Room A", "Room B", "Room C", "Room D", "Room E"],
   "slots": [
     {
       "id": "s1",
@@ -13,19 +13,19 @@
         { "id": "s1b", "tag": "", "title": "UCD Aversion to MVP - Getting people comfortable with with good vs. perfect" },
         { "id": "s1c", "tag": "", "title": "Product not Projects - What can DMs do to make it successful? (and stick this time)" },
         { "id": "s1d", "tag": "", "title": "The role a DM in a cyber security incident" },
-
+        { "id": "s1e", "tag": "", "title": "[TBC]" }
       ]
     },
     {
       "id": "s2",
-      "time": "12:10–12:55",
+      "time": "12:00–12:45",
       "label": "SESSION 2",
       "sessions": [
         { "id": "s2a", "tag": "", "title": "How are you useing AI to help with your day to day job?" },
         { "id": "s2b", "tag": "", "title": "Planning work in a unpredictable live team" },
         { "id": "s2c", "tag": "", "title": "How have you created psychological safety in a struggling team?" },
         { "id": "s2d", "tag": "", "title": "Progression as a Delivery Human" },
-
+        { "id": "s2e", "tag": "", "title": "[TBC]" }
       ]
     },
     {
@@ -37,7 +37,7 @@
         { "id": "s3b", "tag": "", "title": "How to be UCP centered in Delivery?" },
         { "id": "s3c", "tag": "", "title": "How do you approch delivery when your outcome is not a digital product?" },
         { "id": "s3d", "tag": "", "title": "How can we embed systainability and risk management into in hte age of AI?" },
-
+        { "id": "s3e", "tag": "", "title": "[TBC]" }
       ]
     },
     {
@@ -49,7 +49,7 @@
         { "id": "s4b", "tag": "", "title": "What annoy you the most about your team / governace / policy? 'Rant Room'" },
         { "id": "s4c", "tag": "", "title": "On Trust... If delivery happens at the speed of trust... what are the key ingredients of building the trust?" },
         { "id": "s4d", "tag": "", "title": "Scrumban - mixing the two effectively" },
-
+        { "id": "s4e", "tag": "", "title": "[TBC]" }
       ]
     }
   ]

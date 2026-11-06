@@ -37,8 +37,8 @@ description: Friday's session grid — twenty sessions across five rooms, set on
       <span class="dc-slot__time">13:00<br>14:00</span>
       <span class="dc-lunch-row__body">
         <span aria-hidden="true" style="font-size:26px">🥪</span>
-        <span class="dc-lunch-row__title">Lunch — bring your own</span>
-        <span class="dc-lunch-row__note">Lightning talks ⚡️ in Room A from 13:20. Please be back for 14:00.</span>
+        <span class="dc-lunch-row__title">Lunch - Source your own</span>
+        <span class="dc-lunch-row__note">Please be back for 13:50.</span>
       </span>
     </div>
     {%- endif %}
