@@ -9,10 +9,10 @@
       "time": "11:00–11:45",
       "label": "SESSION 1",
       "sessions": [
-        { "id": "s1a", "tag": "", "title": "Testing" },
-        { "id": "s1b", "tag": "", "title": "[TBC]" },
-        { "id": "s1c", "tag": "", "title": "[TBC]" },
-        { "id": "s1d", "tag": "", "title": "[TBC]" },
+        { "id": "s1a", "tag": "", "title": "Improving Team Health - Making Work Fun" },
+        { "id": "s1b", "tag": "", "title": "UCD Aversion to MVP - Getting people comfortable with with good vs. perfect" },
+        { "id": "s1c", "tag": "", "title": "Product not Projects - What can DMs do to make it successful? (and stick this time)" },
+        { "id": "s1d", "tag": "", "title": "The role a DM in a cyber security incident" },
         { "id": "s1e", "tag": "", "title": "[TBC]" }
       ]
     },
