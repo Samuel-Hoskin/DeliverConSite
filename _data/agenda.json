@@ -33,10 +33,10 @@
       "time": "14:00–14:45",
       "label": "SESSION 3",
       "sessions": [
-        { "id": "s3a", "tag": "", "title": "[TBC]" },
-        { "id": "s3b", "tag": "", "title": "[TBC]" },
-        { "id": "s3c", "tag": "", "title": "[TBC]" },
-        { "id": "s3d", "tag": "", "title": "[TBC]" },
+        { "id": "s3a", "tag": "", "title": "Have we lost the ability to \"Speak truth to power\"?" },
+        { "id": "s3b", "tag": "", "title": "How to be UCP centered in Delivery?" },
+        { "id": "s3c", "tag": "", "title": "How do you approch delivery when your outcome is not a digital product?" },
+        { "id": "s3d", "tag": "", "title": "How can we embed systainability and risk management into in hte age of AI?" },
         { "id": "s3e", "tag": "", "title": "[TBC]" }
       ]
     },
