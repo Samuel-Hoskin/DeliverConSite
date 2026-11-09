@@ -21,7 +21,7 @@ description: A free, volunteer-run unconference for delivery managers in and aro
       <h1>Come and discuss delivery. 🚀</h1>
       <p class="dc-lede">A free, volunteer-run unconference for delivery managers in and around the public sector. You set the agenda on the day.</p>
       <div class="dc-hero__actions">
-        <a href="https://luma.com/wyw7lmut?utm_source=WebsiteMainPage" class="dc-btn dc-btn--primary">Grab a free ticket</a>
+        <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=UCQKdycCYkyQx044U38RAnZHRQQdA9JKno6ggQuqbAhUMUkxSTlFUkQzSUhPNUJFOVRaNlVRTU9WWi4u" class="dc-btn dc-btn--primary">Provide us with some feedback</a>
         <a href="/unconference/" class="dc-btn dc-btn--outline">First time? Start here</a>
       </div>
       <span class="dc-eyebrow-line">Free · everyone welcome</span>
@@ -37,19 +37,19 @@ description: A free, volunteer-run unconference for delivery managers in and aro
   <div class="dc-section__inner">
     <div class="dc-grid dc-grid--3">
       <div class="dc-tile">
-        <span class="dc-tile__icon" aria-hidden="true">📌</span>
-        <h3>Aqua House, Birmingham</h3>
-        <p>Defra, Aqua House, 20 Lionel St, Birmingham B3 1AQ. Fifteen minutes from the station.</p>
+        <span class="dc-tile__icon" aria-hidden="true">📸</span>
+        <h3><a href="https://photos.app.goo.gl/tv8inTt5rwm5tmub6">Photos</a></h3>
+        <p>Please share any photos you have from the day.</p>
       </div>
       <div class="dc-tile">
-        <span class="dc-tile__icon" aria-hidden="true">📅</span>
-        <h3>Friday 06 November 2026</h3>
-        <p style="font-family:var(--font-mono);font-size:15px;line-height:1.7;letter-spacing:.06em">09:30 doors open<br>10:00 event starts<br>16:30 finish</p>
+        <span class="dc-tile__icon" aria-hidden="true">📑</span>
+        <h3><a href="https://photos.app.goo.gl/Dwu1ZnZJzzi5jNuLA">Notes (Photos)</a></h3>
+        <p>Please share any photos of visual notes you havefrom the day.</p>
       </div>
       <div class="dc-tile">
-        <span class="dc-tile__icon" aria-hidden="true">🥪</span>
-        <h3>Bring your own lunch</h3>
-        <p>Lunch isn't provided — plenty of food outlets within 10 minutes. Be back for 14:00.</p>
+        <span class="dc-tile__icon" aria-hidden="true">📝</span>
+        <h3><a href="https://drive.google.com/drive/folders/1vOox1sKb-LYa0DLsNeiZ2492enjLDRpt?usp=sharing">Notes (Written)</a></h3>
+        <p>Please share any typed notes you have from the day.</p>
       </div>
     </div>
   </div>
